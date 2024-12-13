@@ -1,0 +1,204 @@
+{
+  "questions": [
+    {
+      "question": "They ___ every day.",
+      "options": ["read", "reads", "reading", "is reading"],
+      "correctAnswer": "read"
+    },
+    {
+      "question": "She ___ to the park in the mornings.",
+      "options": ["walk", "walks", "walking", "is walking"],
+      "correctAnswer": "walks"
+    },
+    {
+      "question": "He ___ not play football on Sundays.",
+      "options": ["do", "does", "did", "doesn't"],
+      "correctAnswer": "doesn't"
+    },
+    {
+      "question": "Do you ___ coffee in the morning?",
+      "options": ["drink", "drinks", "drinking", "drunk"],
+      "correctAnswer": "drink"
+    },
+    {
+      "question": "We ___ to the library every Saturday.",
+      "options": ["go", "goes", "going", "gone"],
+      "correctAnswer": "go"
+    },
+    {
+      "question": "Does she ___ English fluently?",
+      "options": ["speak", "speaks", "speaking", "spoken"],
+      "correctAnswer": "speak"
+    },
+    {
+      "question": "I ___ not watch TV in the evening.",
+      "options": ["do", "does", "did", "don't"],
+      "correctAnswer": "don't"
+    },
+    {
+      "question": "They ___ their homework after school.",
+      "options": ["do", "does", "doing", "done"],
+      "correctAnswer": "do"
+    },
+    {
+      "question": "He ___ not drive to work.",
+      "options": ["do", "does", "did", "doesn't"],
+      "correctAnswer": "doesn't"
+    },
+    {
+      "question": "Do we ___ enough time to finish this?",
+      "options": ["have", "has", "having", "had"],
+      "correctAnswer": "have"
+    },
+    {
+      "question": "She ___ breakfast at 8 o'clock.",
+      "options": ["eat", "eats", "eating", "ate"],
+      "correctAnswer": "eats"
+    },
+    {
+      "question": "I ___ not like spicy food.",
+      "options": ["do", "does", "did", "don't"],
+      "correctAnswer": "don't"
+    },
+    {
+      "question": "Does he ___ the guitar well?",
+      "options": ["play", "plays", "playing", "played"],
+      "correctAnswer": "play"
+    },
+    {
+      "question": "We ___ dinner together every night.",
+      "options": ["have", "has", "having", "had"],
+      "correctAnswer": "have"
+    },
+    {
+      "question": "Do they ___ movies on weekends?",
+      "options": ["watch", "watches", "watching", "watched"],
+      "correctAnswer": "watch"
+    },
+    {
+      "question": "He ___ not enjoy long meetings.",
+      "options": ["do", "does", "did", "doesn't"],
+      "correctAnswer": "doesn't"
+    },
+    {
+      "question": "Does she ___ to music while working?",
+      "options": ["listen", "listens", "listening", "listened"],
+      "correctAnswer": "listen"
+    },
+    {
+      "question": "They ___ football every afternoon.",
+      "options": ["play", "plays", "playing", "played"],
+      "correctAnswer": "play"
+    },
+    {
+      "question": "He ___ not clean his room regularly.",
+      "options": ["do", "does", "did", "doesn't"],
+      "correctAnswer": "doesn't"
+    },
+    {
+      "question": "Do you ___ books in your free time?",
+      "options": ["read", "reads", "reading", "readed"],
+      "correctAnswer": "read"
+    },
+    {
+      "question": "She ___ to the gym every day.",
+      "options": ["go", "goes", "going", "gone"],
+      "correctAnswer": "goes"
+    },
+    {
+      "question": "Do they ___ their homework after dinner?",
+      "options": ["finish", "finishes", "finishing", "finished"],
+      "correctAnswer": "finish"
+    },
+    {
+      "question": "He ___ not eat meat.",
+      "options": ["do", "does", "did", "doesn't"],
+      "correctAnswer": "doesn't"
+    },
+    {
+      "question": "We ___ music in the evenings.",
+      "options": ["listen", "listens", "listening", "listened"],
+      "correctAnswer": "listen"
+    },
+    {
+      "question": "Does she ___ her clothes every weekend?",
+      "options": ["wash", "washes", "washing", "washed"],
+      "correctAnswer": "wash"
+    },
+    {
+      "question": "I ___ not like cold weather.",
+      "options": ["do", "does", "did", "don't"],
+      "correctAnswer": "don't"
+    },
+    {
+      "question": "They ___ breakfast at 7 o'clock.",
+      "options": ["have", "has", "having", "had"],
+      "correctAnswer": "have"
+    },
+    {
+      "question": "Does he ___ to work by bus?",
+      "options": ["travel", "travels", "traveling", "traveled"],
+      "correctAnswer": "travel"
+    },
+    {
+      "question": "You ___ not understand this topic.",
+      "options": ["do", "does", "did", "don't"],
+      "correctAnswer": "don't"
+    },
+    {
+      "question": "Do we ___ pizza on Fridays?",
+      "options": ["eat", "eats", "eating", "eaten"],
+      "correctAnswer": "eat"
+    },
+    {
+      "question": "She ___ the piano beautifully.",
+      "options": ["play", "plays", "playing", "played"],
+      "correctAnswer": "plays"
+    },
+    {
+      "question": "He ___ not read novels.",
+      "options": ["do", "does", "did", "doesn't"],
+      "correctAnswer": "doesn't"
+    },
+    {
+      "question": "Do they ___ hiking on weekends?",
+      "options": ["enjoy", "enjoys", "enjoying", "enjoyed"],
+      "correctAnswer": "enjoy"
+    },
+    {
+      "question": "We ___ not watch movies during the week.",
+      "options": ["do", "does", "did", "don't"],
+      "correctAnswer": "don't"
+    },
+    {
+      "question": "Does she ___ books in her free time?",
+      "options": ["read", "reads", "reading", "readed"],
+      "correctAnswer": "read"
+    },
+    {
+      "question": "I ___ tea every morning.",
+      "options": ["drink", "drinks", "drinking", "drunk"],
+      "correctAnswer": "drink"
+    },
+    {
+      "question": "He ___ not visit his grandparents often.",
+      "options": ["do", "does", "did", "doesn't"],
+      "correctAnswer": "doesn't"
+    },
+    {
+      "question": "Do you ___ English every day?",
+      "options": ["practice", "practices", "practicing", "practiced"],
+      "correctAnswer": "practice"
+    },
+    {
+      "question": "They ___ soccer after school.",
+      "options": ["play", "plays", "playing", "played"],
+      "correctAnswer": "play"
+    },
+    {
+      "question": "He ___ not enjoy cooking dinner.",
+      "options": ["do", "does", "did", "doesn't"],
+      "correctAnswer": "doesn't"
+    }
+  ]
+}

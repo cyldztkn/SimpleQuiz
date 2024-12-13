@@ -1,0 +1,184 @@
+{
+  "questions": [
+    {
+      "question": "Where is the nearest hospital?",
+      "options": [
+        "It is in the city center.",
+        "He is at work.",
+        "She is a doctor.",
+        "They are my friends."
+      ],
+      "correctAnswer": "It is in the city center."
+    },
+    {
+      "question": "What is your favorite food?",
+      "options": ["Pizza", "Red", "Seven", "On Monday"],
+      "correctAnswer": "Pizza"
+    },
+    {
+      "question": "Who is your best friend?",
+      "options": ["My sister", "At home", "By bus", "In the park"],
+      "correctAnswer": "My sister"
+    },
+    {
+      "question": "How do you go to school?",
+      "options": ["By bus", "On Monday", "My teacher", "Blue"],
+      "correctAnswer": "By bus"
+    },
+    {
+      "question": "Why are you late?",
+      "options": [
+        "Because the bus was late",
+        "At 9 o'clock",
+        "It is sunny",
+        "I am a teacher"
+      ],
+      "correctAnswer": "Because the bus was late"
+    },
+    {
+      "question": "Where are my keys?",
+      "options": ["On the table", "My brother", "Running", "Yesterday"],
+      "correctAnswer": "On the table"
+    },
+    {
+      "question": "What is your favorite color?",
+      "options": ["Blue", "At school", "John", "By car"],
+      "correctAnswer": "Blue"
+    },
+    {
+      "question": "Who is your teacher?",
+      "options": ["Mr. Brown", "In the garden", "With a pen", "Next week"],
+      "correctAnswer": "Mr. Brown"
+    },
+    {
+      "question": "How is the weather today?",
+      "options": ["Sunny", "At 3 PM", "My sister", "To the park"],
+      "correctAnswer": "Sunny"
+    },
+    {
+      "question": "Why are you sad?",
+      "options": ["Because I lost my phone", "At 2 PM", "To school", "Green"],
+      "correctAnswer": "Because I lost my phone"
+    },
+    {
+      "question": "Where do you live?",
+      "options": ["In New York", "To the park", "My cousin", "Red"],
+      "correctAnswer": "In New York"
+    },
+    {
+      "question": "What time is it?",
+      "options": [
+        "It is 5 o'clock",
+        "In the box",
+        "At the library",
+        "To play soccer"
+      ],
+      "correctAnswer": "It is 5 o'clock"
+    },
+    {
+      "question": "Who is at the door?",
+      "options": ["The mailman", "At school", "Sunny", "My car"],
+      "correctAnswer": "The mailman"
+    },
+    {
+      "question": "How do you feel today?",
+      "options": ["Happy", "By train", "At the cinema", "The red one"],
+      "correctAnswer": "Happy"
+    },
+    {
+      "question": "Why is the sky blue?",
+      "options": [
+        "Because of the sunlight",
+        "At 4 PM",
+        "My brother",
+        "To London"
+      ],
+      "correctAnswer": "Because of the sunlight"
+    },
+    {
+      "question": "Where is your phone?",
+      "options": ["On the desk", "In the garden", "It is sunny", "By train"],
+      "correctAnswer": "On the desk"
+    },
+    {
+      "question": "What is this?",
+      "options": ["It is a pen", "By car", "At 10 o'clock", "My teacher"],
+      "correctAnswer": "It is a pen"
+    },
+    {
+      "question": "Who are you waiting for?",
+      "options": ["My friend", "At school", "On the table", "Happy"],
+      "correctAnswer": "My friend"
+    },
+    {
+      "question": "How do you make tea?",
+      "options": ["With hot water", "My brother", "At 7 PM", "In the box"],
+      "correctAnswer": "With hot water"
+    },
+    {
+      "question": "Why is she crying?",
+      "options": ["Because she is sad", "At school", "By train", "Red"],
+      "correctAnswer": "Because she is sad"
+    },
+    {
+      "question": "Where are the children?",
+      "options": ["In the garden", "To the park", "My cousin", "At 2 PM"],
+      "correctAnswer": "In the garden"
+    },
+    {
+      "question": "What is your hobby?",
+      "options": [
+        "Playing guitar",
+        "In the box",
+        "To the school",
+        "My teacher"
+      ],
+      "correctAnswer": "Playing guitar"
+    },
+    {
+      "question": "Who is at the party?",
+      "options": ["My friends", "To London", "At school", "Red"],
+      "correctAnswer": "My friends"
+    },
+    {
+      "question": "How old are you?",
+      "options": ["25 years old", "At the park", "My brother", "Blue"],
+      "correctAnswer": "25 years old"
+    },
+    {
+      "question": "Why are they running?",
+      "options": [
+        "Because they are late",
+        "To the school",
+        "In the park",
+        "It is sunny"
+      ],
+      "correctAnswer": "Because they are late"
+    },
+    {
+      "question": "Where is the library?",
+      "options": ["Next to the bank", "To London", "At 2 PM", "My teacher"],
+      "correctAnswer": "Next to the bank"
+    },
+    {
+      "question": "What is your job?",
+      "options": [
+        "I am a teacher",
+        "At the library",
+        "With my friends",
+        "My brother"
+      ],
+      "correctAnswer": "I am a teacher"
+    },
+    {
+      "question": "Who is your role model?",
+      "options": ["My father", "By train", "At school", "In the garden"],
+      "correctAnswer": "My father"
+    },
+    {
+      "question": "How is your new house?",
+      "options": ["Big and beautiful", "At the park", "By bus", "My friend"],
+      "correctAnswer": "Big and beautiful"
+    }
+  ]
+}
