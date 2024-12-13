@@ -83,6 +83,24 @@
         text-align: center;
         font-weight: bold;
       }
+      .progress-container {
+        width: 100%;
+        background-color: #eee;
+        border-radius: 5px;
+        margin-bottom: 10px;
+      }
+      .progress-bar {
+        width: 0%;
+        height: 20px;
+        background-color: #89e88c;
+        border-radius: 5px;
+        transition: width 0.5s ease-in-out;
+      }
+      h4 {
+        font-size: 20px;
+        font-weight: 400;
+        display: inline;
+      }
     </style>
   </head>
   <body>
@@ -92,22 +110,23 @@
       <button id="restart-btn">Quizi Yeniden Başlat</button>
       <div id="result"></div>
     </div>
-
     <script>
-      let fetching = async () => {
-        console.log("fetch çalıştı");
-        let response = await fetch("./questions.json");
-        let data = await response.json();
-        data.questions.sort(() => Math.random() - 0.5);
-
-        new Quiz(data);
-      };
-      fetching();
-
       class Quiz {
         constructor(quizData) {
-          this.questions = quizData.questions;
-          this.currentQuestionIndex = 0;
+          // Local Storage'dan son durumu al
+          const savedState = this.getSavedState();
+
+          this.questions = this.shuffleAndSelectQuestions(
+            quizData.questions,
+            savedState
+          );
+          this.totalQuestions = this.questions.length;
+          this.currentQuestionIndex = savedState
+            ? savedState.currentQuestionIndex
+            : 0;
+          this.correctAnswers = savedState ? savedState.correctAnswers : 0;
+          this.incorrectAnswers = savedState ? savedState.incorrectAnswers : 0;
+
           this.quizElement = document.getElementById("quiz");
           this.resultElement = document.getElementById("result");
           this.nextButton = document.getElementById("next-btn");
@@ -121,38 +140,94 @@
           this.loadQuestion();
         }
 
+        // Soruları karıştır ve sınırlı sayıda soru seç
+        shuffleAndSelectQuestions(questions, savedState) {
+          // Eğer daha önce kaydedilmiş bir durum varsa, o soruları kullan
+          if (savedState && savedState.questions) {
+            return savedState.questions;
+          }
+
+          // Soruları karıştır
+          const shuffledQuestions = questions.sort(() => Math.random() - 0.5);
+
+          // İlk 20 soruyu seç
+          return shuffledQuestions;
+        }
+
+        // Local Storage'dan son durumu al
+        getSavedState() {
+          const savedQuizState = localStorage.getItem("quizState");
+          return savedQuizState ? JSON.parse(savedQuizState) : null;
+        }
+
+        // Mevcut durumu Local Storage'a kaydet
+        saveState() {
+          const state = {
+            currentQuestionIndex: this.currentQuestionIndex,
+            questions: this.questions,
+            correctAnswers: this.correctAnswers,
+            incorrectAnswers: this.incorrectAnswers,
+          };
+          localStorage.setItem("quizState", JSON.stringify(state));
+        }
+
+        createProgressBar() {
+          const progressContainer = document.createElement("div");
+          progressContainer.className = "progress-container";
+
+          const progressBar = document.createElement("div");
+          progressBar.className = "progress-bar";
+          progressBar.id = "progress-bar";
+
+          progressContainer.appendChild(progressBar);
+
+          return progressContainer;
+        }
+
+        updateProgressBar() {
+          const progressBar = document.getElementById("progress-bar");
+          const progressPercentage =
+            ((this.currentQuestionIndex + 1) / this.totalQuestions) * 100;
+          progressBar.style.width = `${progressPercentage}%`;
+        }
+
         loadQuestion() {
-          // Önceki soru ve butonları temizle
           this.quizElement.innerHTML = "";
           this.nextButton.style.display = "none";
 
-          // Eğer tüm sorular tamamlandıysa
           if (this.currentQuestionIndex >= this.questions.length) {
-            this.quizElement.innerHTML = "<p>Tüm soruları gördünüz.</p>";
+            this.showResult();
             return;
           }
 
           const currentQuestion = this.questions[this.currentQuestionIndex];
 
           this.quizElement.innerHTML = `
-                          <div class="question">
-                            <h2>Soru - ${this.currentQuestionIndex + 1} </h2>
-                              <p>${currentQuestion.question}</p>
-                          </div>
-                          <div class="options">
-                              ${currentQuestion.options
-                                .map(
-                                  (option) =>
-                                    `<div class="option">${option}</div>`
-                                )
-                                .join("")}
-                          </div>
-                      `;
+          <div class="progress-container">
+            <div class="progress-bar" id="progress-bar" style="width: ${
+              (this.currentQuestionIndex / this.totalQuestions) * 100
+            }%"></div>
+              </div>
+              <div class="question">
+              <h2>Soru - ${this.currentQuestionIndex + 1} / ${
+            this.totalQuestions
+          }</h2>
+              <p>${currentQuestion.question}</p>
+            </div>
+            <div class="options">
+              ${currentQuestion.options
+                .map((option) => `<div class="option">${option}</div>`)
+                .join("")}
+            </div>
+          `;
 
           const optionElements = this.quizElement.querySelectorAll(".option");
           optionElements.forEach((optionEl) => {
             optionEl.addEventListener("click", (e) => this.selectOption(e));
           });
+
+          // Durumu kaydet
+          this.saveState();
         }
 
         selectOption(e) {
@@ -160,33 +235,32 @@
           const currentQuestion = this.questions[this.currentQuestionIndex];
           const optionElements = this.quizElement.querySelectorAll(".option");
 
-          // Daha önce seçim yapılmışsa tekrar seçime izin verme
           if (this.optionSelected) return;
 
-          // Seçim yapıldığını işaretle
           this.optionSelected = true;
 
-          // Tüm seçeneklerin tıklanmasını engelle
           optionElements.forEach((el) => {
             el.removeEventListener("click", (e) => this.selectOption(e));
           });
 
-          // Doğru cevabı bul ve renklendir
           optionElements.forEach((el) => {
             if (el.textContent === currentQuestion.correctAnswer) {
               el.classList.add("correct");
             }
           });
 
-          // Seçilen seçeneği işaretle
           if (selectedOption.textContent === currentQuestion.correctAnswer) {
             selectedOption.classList.add("correct");
+            this.correctAnswers++;
           } else {
             selectedOption.classList.add("incorrect");
+            this.incorrectAnswers++;
           }
 
-          // Sonraki soru butonunu göster
           this.nextButton.style.display = "block";
+
+          // Durumu kaydet
+          this.saveState();
         }
 
         nextQuestion() {
@@ -195,14 +269,53 @@
           this.loadQuestion();
         }
 
+        showResult() {
+          this.quizElement.innerHTML = "";
+          this.nextButton.style.display = "none";
+          this.restartButton.style.display = "block";
+
+          this.resultElement.innerHTML = `
+            <h2>Quiz Sonucu</h2>
+            <p>Toplam Soru: ${this.totalQuestions}</p>
+            <p>Doğru Cevap: ${this.correctAnswers}</p>
+            <p>Yanlış Cevap: ${this.incorrectAnswers}</p>
+          `;
+
+          // Local Storage'daki quiz durumunu temizle
+          localStorage.removeItem("quizState");
+        }
+
         restartQuiz() {
+          // Local Storage'daki quiz durumunu temizle
+          localStorage.removeItem("quizState");
+
+          // Quiz'i sıfırla
           this.currentQuestionIndex = 0;
+          this.correctAnswers = 0;
+          this.incorrectAnswers = 0;
           this.optionSelected = false;
           this.resultElement.innerHTML = "";
           this.restartButton.style.display = "none";
-          this.loadQuestion();
+
+          // Yeni bir fetch gerekiyorsa, fetching fonksiyonunu çağırabilirsiniz
+          fetching();
         }
       }
+
+      let fetching = async () => {
+        try {
+          console.log("fetch çalıştı");
+          let response = await fetch("./questions.json");
+          let data = await response.json();
+
+          new Quiz(data);
+        } catch (error) {
+          console.error("Soru yüklenirken hata oluştu:", error);
+        }
+      };
+
+      // Sayfa yüklendiğinde quiz'i başlat
+      fetching();
     </script>
   </body>
 </html>
