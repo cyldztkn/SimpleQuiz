@@ -1,0 +1,205 @@
+{
+    "questions": [
+      {
+        "question": "She ___ a teacher.",
+        "options": ["am", "is", "are", "be"],
+        "correctAnswer": "is"
+      },
+      {
+        "question": "They ___ at home.",
+        "options": ["am", "is", "are", "be"],
+        "correctAnswer": "are"
+      },
+      {
+        "question": "I ___ tired.",
+        "options": ["am", "is", "are", "be"],
+        "correctAnswer": "am"
+      },
+      {
+        "question": "We ___ not hungry.",
+        "options": ["am", "is", "are", "be"],
+        "correctAnswer": "are"
+      },
+      {
+        "question": "He ___ happy.",
+        "options": ["am", "is", "are", "be"],
+        "correctAnswer": "is"
+      },
+      {
+        "question": "You ___ not a doctor.",
+        "options": ["am", "is", "are", "be"],
+        "correctAnswer": "are"
+      },
+      {
+        "question": "It ___ a sunny day.",
+        "options": ["am", "is", "are", "be"],
+        "correctAnswer": "is"
+      },
+      {
+        "question": "We ___ friends.",
+        "options": ["am", "is", "are", "be"],
+        "correctAnswer": "are"
+      },
+      {
+        "question": "They ___ not students.",
+        "options": ["am", "is", "are", "be"],
+        "correctAnswer": "are"
+      },
+      {
+        "question": "I ___ not from England.",
+        "options": ["am", "is", "are", "be"],
+        "correctAnswer": "am"
+      },
+      {
+        "question": "___ she a doctor?",
+        "options": ["Am", "Is", "Are", "Be"],
+        "correctAnswer": "Is"
+      },
+      {
+        "question": "___ they at the park?",
+        "options": ["Am", "Is", "Are", "Be"],
+        "correctAnswer": "Are"
+      },
+      {
+        "question": "___ it a dog?",
+        "options": ["Am", "Is", "Are", "Be"],
+        "correctAnswer": "Is"
+      },
+      {
+        "question": "___ you happy?",
+        "options": ["Am", "Is", "Are", "Be"],
+        "correctAnswer": "Are"
+      },
+      {
+        "question": "___ I late?",
+        "options": ["Am", "Is", "Are", "Be"],
+        "correctAnswer": "Am"
+      },
+      {
+        "question": "Who ___ your best friend?",
+        "options": ["am", "is", "are", "be"],
+        "correctAnswer": "is"
+      },
+      {
+        "question": "Why ___ you sad?",
+        "options": ["am", "is", "are", "be"],
+        "correctAnswer": "are"
+      },
+      {
+        "question": "Where ___ they now?",
+        "options": ["am", "is", "are", "be"],
+        "correctAnswer": "are"
+      },
+      {
+        "question": "What ___ this?",
+        "options": ["am", "is", "are", "be"],
+        "correctAnswer": "is"
+      },
+      {
+        "question": "How ___ you today?",
+        "options": ["am", "is", "are", "be"],
+        "correctAnswer": "are"
+      },
+      {
+        "question": "He ___ not a singer.",
+        "options": ["am", "is", "are", "be"],
+        "correctAnswer": "is"
+      },
+      {
+        "question": "We ___ not tired.",
+        "options": ["am", "is", "are", "be"],
+        "correctAnswer": "are"
+      },
+      {
+        "question": "It ___ not a bird.",
+        "options": ["am", "is", "are", "be"],
+        "correctAnswer": "is"
+      },
+      {
+        "question": "You ___ not late.",
+        "options": ["am", "is", "are", "be"],
+        "correctAnswer": "are"
+      },
+      {
+        "question": "I ___ not a student.",
+        "options": ["am", "is", "are", "be"],
+        "correctAnswer": "am"
+      },
+      {
+        "question": "She ___ not from here.",
+        "options": ["am", "is", "are", "be"],
+        "correctAnswer": "is"
+      },
+      {
+        "question": "___ they not ready?",
+        "options": ["Am", "Is", "Are", "Be"],
+        "correctAnswer": "Are"
+      },
+      {
+        "question": "___ it not true?",
+        "options": ["Am", "Is", "Are", "Be"],
+        "correctAnswer": "Is"
+      },
+      {
+        "question": "___ she not here?",
+        "options": ["Am", "Is", "Are", "Be"],
+        "correctAnswer": "Is"
+      },
+      {
+        "question": "___ I not your friend?",
+        "options": ["Am", "Is", "Are", "Be"],
+        "correctAnswer": "Am"
+      },
+      {
+        "question": "We are friends, ___?",
+        "options": ["are we", "aren't we", "isn't we", "isn't it"],
+        "correctAnswer": "aren't we"
+      },
+      {
+        "question": "She is here, ___?",
+        "options": ["is she", "isn't she", "are she", "aren't she"],
+        "correctAnswer": "isn't she"
+      },
+      {
+        "question": "They are at the park, ___?",
+        "options": ["are they", "aren't they", "is they", "isn't they"],
+        "correctAnswer": "aren't they"
+      },
+      {
+        "question": "It is raining, ___?",
+        "options": ["is it", "isn't it", "are it", "aren't it"],
+        "correctAnswer": "isn't it"
+      },
+      {
+        "question": "I am late, ___?",
+        "options": ["am I", "aren't I", "is I", "isn't I"],
+        "correctAnswer": "aren't I"
+      },
+      {
+        "question": "___ he a good player?",
+        "options": ["Am", "Is", "Are", "Be"],
+        "correctAnswer": "Is"
+      },
+      {
+        "question": "We ___ in the same team.",
+        "options": ["am", "is", "are", "be"],
+        "correctAnswer": "are"
+      },
+      {
+        "question": "They ___ from Italy.",
+        "options": ["am", "is", "are", "be"],
+        "correctAnswer": "are"
+      },
+      {
+        "question": "You ___ my neighbor.",
+        "options": ["am", "is", "are", "be"],
+        "correctAnswer": "are"
+      },
+      {
+        "question": "___ you my friend?",
+        "options": ["Am", "Is", "Are", "Be"],
+        "correctAnswer": "Are"
+      }
+    ]
+  }
+  
