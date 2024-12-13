@@ -1,0 +1,1944 @@
+{
+  "questions": [
+    {
+      "question": "There are ___ apples in the basket.",
+      "options": ["much", "many", "a little", "few"],
+      "correctAnswer": "many"
+    },
+    {
+      "question": "She has ___ money in her wallet.",
+      "options": ["a few", "much", "a lot of", "little"],
+      "correctAnswer": "a lot of"
+    },
+    {
+      "question": "He drank ___ water after the run.",
+      "options": ["few", "a little", "a lot of", "many"],
+      "correctAnswer": "a little"
+    },
+    {
+      "question": "There aren’t ___ chairs in the room.",
+      "options": ["much", "a lot of", "many", "little"],
+      "correctAnswer": "many"
+    },
+    {
+      "question": "We have ___ time to finish this project.",
+      "options": ["a little", "much", "few", "many"],
+      "correctAnswer": "a little"
+    },
+    {
+      "question": "How ___ sugar do you need?",
+      "options": ["many", "a lot of", "much", "few"],
+      "correctAnswer": "much"
+    },
+    {
+      "question": "There are only ___ books on the shelf.",
+      "options": ["few", "a lot of", "much", "little"],
+      "correctAnswer": "few"
+    },
+    {
+      "question": "We don’t have ___ milk left.",
+      "options": ["a lot of", "few", "much", "many"],
+      "correctAnswer": "much"
+    },
+    {
+      "question": "She gave me ___ advice about my trip.",
+      "options": ["a lot of", "few", "many", "a little"],
+      "correctAnswer": "a lot of"
+    },
+    {
+      "question": "There are ___ people at the party.",
+      "options": ["a little", "few", "many", "much"],
+      "correctAnswer": "many"
+    },
+    {
+      "question": "We need ___ eggs for this recipe.",
+      "options": ["a few", "much", "a little", "few"],
+      "correctAnswer": "a few"
+    },
+    {
+      "question": "He has ___ friends in the city.",
+      "options": ["a little", "much", "a lot of", "few"],
+      "correctAnswer": "a lot of"
+    },
+    {
+      "question": "There isn’t ___ sugar in the jar.",
+      "options": ["few", "a lot of", "much", "many"],
+      "correctAnswer": "much"
+    },
+    {
+      "question": "How ___ pencils do you need?",
+      "options": ["much", "few", "a little", "many"],
+      "correctAnswer": "many"
+    },
+    {
+      "question": "He drank ___ coffee this morning.",
+      "options": ["a lot of", "few", "many", "little"],
+      "correctAnswer": "a lot of"
+    },
+    {
+      "question": "There are ___ flowers in the garden.",
+      "options": ["few", "a lot of", "much", "a little"],
+      "correctAnswer": "a lot of"
+    },
+    {
+      "question": "We have only ___ minutes left.",
+      "options": ["few", "a little", "much", "many"],
+      "correctAnswer": "few"
+    },
+    {
+      "question": "How ___ water do you drink daily?",
+      "options": ["much", "many", "a few", "little"],
+      "correctAnswer": "much"
+    },
+    {
+      "question": "She has ___ money to buy the book.",
+      "options": ["a few", "little", "a lot of", "many"],
+      "correctAnswer": "a lot of"
+    },
+    {
+      "question": "There are ___ problems to solve.",
+      "options": ["a little", "few", "much", "many"],
+      "correctAnswer": "few"
+    },
+    {
+      "question": "He bought ___ apples from the market.",
+      "options": ["much", "a few", "many", "a lot of"],
+      "correctAnswer": "a few"
+    },
+    {
+      "question": "We need ___ flour for the cake.",
+      "options": ["many", "much", "a few", "few"],
+      "correctAnswer": "much"
+    },
+    {
+      "question": "There is only ___ juice left in the fridge.",
+      "options": ["a little", "a few", "many", "little"],
+      "correctAnswer": "a little"
+    },
+    {
+      "question": "How ___ cars are parked outside?",
+      "options": ["much", "many", "a little", "few"],
+      "correctAnswer": "many"
+    },
+    {
+      "question": "She found ___ mistakes in the report.",
+      "options": ["a lot of", "few", "much", "a little"],
+      "correctAnswer": "few"
+    },
+    {
+      "question": "We don’t have ___ bread for dinner.",
+      "options": ["much", "a few", "many", "little"],
+      "correctAnswer": "much"
+    },
+    {
+      "question": "There are ___ birds in the tree.",
+      "options": ["many", "much", "few", "a little"],
+      "correctAnswer": "many"
+    },
+    {
+      "question": "He drank ___ tea after lunch.",
+      "options": ["a lot of", "few", "many", "little"],
+      "correctAnswer": "a lot of"
+    },
+    {
+      "question": "How ___ chairs are there in the room?",
+      "options": ["much", "a little", "many", "few"],
+      "correctAnswer": "many"
+    },
+    {
+      "question": "She has only ___ time to finish her homework.",
+      "options": ["little", "few", "a lot of", "many"],
+      "correctAnswer": "little"
+    },
+    {
+      "question": "They bought ___ oranges at the market.",
+      "options": ["much", "many", "few", "a lot of"],
+      "correctAnswer": "many"
+    },
+    {
+      "question": "We need ___ effort to complete this task.",
+      "options": ["little", "a little", "few", "much"],
+      "correctAnswer": "a little"
+    },
+    {
+      "question": "How ___ books do you read in a month?",
+      "options": ["many", "a few", "much", "little"],
+      "correctAnswer": "many"
+    },
+    {
+      "question": "There isn’t ___ water left in the bottle.",
+      "options": ["much", "few", "many", "a lot of"],
+      "correctAnswer": "much"
+    },
+    {
+      "question": "He found ___ errors in the document.",
+      "options": ["a lot of", "few", "little", "much"],
+      "correctAnswer": "few"
+    },
+    {
+      "question": "How ___ friends does she have?",
+      "options": ["much", "many", "a little", "few"],
+      "correctAnswer": "many"
+    },
+    {
+      "question": "We have ___ milk in the fridge.",
+      "options": ["a little", "a few", "few", "many"],
+      "correctAnswer": "a little"
+    },
+    {
+      "question": "How ___ sugar do you need for the recipe?",
+      "options": ["many", "much", "a few", "little"],
+      "correctAnswer": "much"
+    },
+    {
+      "question": "There are ___ chairs in the living room.",
+      "options": ["many", "much", "few", "a lot of"],
+      "correctAnswer": "many"
+    },
+    {
+      "question": "He has ___ books on the table.",
+      "options": ["a few", "a little", "much", "little"],
+      "correctAnswer": "a few"
+    },
+    {
+      "question": "We need ___ time to complete the project.",
+      "options": ["a little", "few", "many", "much"],
+      "correctAnswer": "a little"
+    },
+    {
+      "question": "There aren’t ___ students in the class today.",
+      "options": ["many", "much", "a few", "a little"],
+      "correctAnswer": "many"
+    },
+    {
+      "question": "She drank ___ water after the run.",
+      "options": ["a little", "much", "many", "a few"],
+      "correctAnswer": "a little"
+    },
+    {
+      "question": "How ___ milk is there in the fridge?",
+      "options": ["much", "many", "a few", "little"],
+      "correctAnswer": "much"
+    },
+    {
+      "question": "They found ___ errors in the report.",
+      "options": ["few", "a little", "many", "a lot of"],
+      "correctAnswer": "few"
+    },
+    {
+      "question": "There are ___ flowers in the garden.",
+      "options": ["many", "much", "few", "a lot of"],
+      "correctAnswer": "a lot of"
+    },
+    {
+      "question": "We don’t have ___ bread left.",
+      "options": ["much", "many", "a little", "a lot of"],
+      "correctAnswer": "much"
+    },
+    {
+      "question": "How ___ pencils are in the box?",
+      "options": ["many", "much", "a little", "few"],
+      "correctAnswer": "many"
+    },
+    {
+      "question": "She has ___ money to buy the groceries.",
+      "options": ["a lot of", "much", "few", "a little"],
+      "correctAnswer": "a lot of"
+    },
+    {
+      "question": "We need ___ apples for the pie.",
+      "options": ["many", "much", "a few", "little"],
+      "correctAnswer": "a few"
+    },
+    {
+      "question": "There isn’t ___ juice in the glass.",
+      "options": ["much", "many", "a little", "few"],
+      "correctAnswer": "much"
+    },
+    {
+      "question": "How ___ people are coming to the meeting?",
+      "options": ["many", "much", "a few", "little"],
+      "correctAnswer": "many"
+    },
+    {
+      "question": "We have ___ homework to do this evening.",
+      "options": ["much", "many", "a lot of", "few"],
+      "correctAnswer": "a lot of"
+    },
+    {
+      "question": "There are ___ sandwiches on the plate.",
+      "options": ["few", "a little", "many", "a lot of"],
+      "correctAnswer": "many"
+    },
+    {
+      "question": "She added ___ salt to the soup.",
+      "options": ["a little", "much", "few", "a lot of"],
+      "correctAnswer": "a little"
+    },
+    {
+      "question": "We don’t need ___ help with this task.",
+      "options": ["much", "many", "a lot of", "a little"],
+      "correctAnswer": "much"
+    },
+    {
+      "question": "There are only ___ cookies left in the jar.",
+      "options": ["a few", "many", "much", "little"],
+      "correctAnswer": "a few"
+    },
+    {
+      "question": "Can you play the guitar?",
+      "options": ["Yes, I can", "No, I can’t", "Maybe", "I don’t know"],
+      "correctAnswer": "Yes, I can"
+    },
+    {
+      "question": "She can ___ very fast.",
+      "options": ["run", "runs", "running", "ran"],
+      "correctAnswer": "run"
+    },
+    {
+      "question": "Could he solve the problem yesterday?",
+      "options": ["Yes, he could", "No, he couldn’t", "Not sure", "Maybe"],
+      "correctAnswer": "Yes, he could"
+    },
+    {
+      "question": "We cannot ___ the concert tomorrow.",
+      "options": ["attend", "attends", "attending", "attended"],
+      "correctAnswer": "attend"
+    },
+    {
+      "question": "Can they join us for dinner?",
+      "options": ["Yes, they can", "No, they can’t", "Not sure", "Maybe"],
+      "correctAnswer": "Yes, they can"
+    },
+    {
+      "question": "I couldn’t ___ the answer during the test.",
+      "options": ["find", "finds", "finding", "found"],
+      "correctAnswer": "find"
+    },
+    {
+      "question": "Could you help me with this task?",
+      "options": ["Yes, I could", "No, I couldn’t", "Not sure", "Maybe"],
+      "correctAnswer": "Yes, I could"
+    },
+    {
+      "question": "He cannot ___ the piano well.",
+      "options": ["play", "plays", "playing", "played"],
+      "correctAnswer": "play"
+    },
+    {
+      "question": "Can you speak Spanish?",
+      "options": ["Yes, I can", "No, I can’t", "Maybe", "Not sure"],
+      "correctAnswer": "Yes, I can"
+    },
+    {
+      "question": "She could ___ when she was five years old.",
+      "options": ["swim", "swims", "swimming", "swam"],
+      "correctAnswer": "swim"
+    },
+    {
+      "question": "Can we leave early today?",
+      "options": ["Yes, we can", "No, we can’t", "Not sure", "Maybe"],
+      "correctAnswer": "Yes, we can"
+    },
+    {
+      "question": "They couldn’t ___ the event last week.",
+      "options": ["attend", "attends", "attending", "attended"],
+      "correctAnswer": "attend"
+    },
+    {
+      "question": "Can she dance well?",
+      "options": ["Yes, she can", "No, she can’t", "Not sure", "Maybe"],
+      "correctAnswer": "Yes, she can"
+    },
+    {
+      "question": "He cannot ___ the heavy box alone.",
+      "options": ["lift", "lifts", "lifting", "lifted"],
+      "correctAnswer": "lift"
+    },
+    {
+      "question": "Could you open the window, please?",
+      "options": ["Yes, I could", "No, I couldn’t", "Not sure", "Maybe"],
+      "correctAnswer": "Yes, I could"
+    },
+    {
+      "question": "She couldn’t ___ her phone in the bag.",
+      "options": ["find", "finds", "finding", "found"],
+      "correctAnswer": "find"
+    },
+    {
+      "question": "Can we stay here tonight?",
+      "options": ["Yes, we can", "No, we can’t", "Not sure", "Maybe"],
+      "correctAnswer": "Yes, we can"
+    },
+    {
+      "question": "He could ___ the problem easily.",
+      "options": ["solve", "solves", "solving", "solved"],
+      "correctAnswer": "solve"
+    },
+    {
+      "question": "Can they finish the project on time?",
+      "options": ["Yes, they can", "No, they can’t", "Not sure", "Maybe"],
+      "correctAnswer": "Yes, they can"
+    },
+    {
+      "question": "I cannot ___ you tomorrow.",
+      "options": ["meet", "meets", "meeting", "met"],
+      "correctAnswer": "meet"
+    },
+    {
+      "question": "Could he answer the question correctly?",
+      "options": ["Yes, he could", "No, he couldn’t", "Not sure", "Maybe"],
+      "correctAnswer": "Yes, he could"
+    },
+    {
+      "question": "She cannot ___ the piano very well.",
+      "options": ["play", "plays", "playing", "played"],
+      "correctAnswer": "play"
+    },
+    {
+      "question": "Can we go to the park this evening?",
+      "options": ["Yes, we can", "No, we can’t", "Not sure", "Maybe"],
+      "correctAnswer": "Yes, we can"
+    },
+    {
+      "question": "They could ___ the answer in the textbook.",
+      "options": ["find", "finds", "finding", "found"],
+      "correctAnswer": "find"
+    },
+    {
+      "question": "Can you help me with my homework?",
+      "options": ["Yes, I can", "No, I can’t", "Not sure", "Maybe"],
+      "correctAnswer": "Yes, I can"
+    },
+    {
+      "question": "He couldn’t ___ the meeting last week.",
+      "options": ["attend", "attends", "attending", "attended"],
+      "correctAnswer": "attend"
+    },
+    {
+      "question": "Can she solve this problem?",
+      "options": ["Yes, she can", "No, she can’t", "Not sure", "Maybe"],
+      "correctAnswer": "Yes, she can"
+    },
+    {
+      "question": "We cannot ___ the movie because it’s too late.",
+      "options": ["watch", "watches", "watching", "watched"],
+      "correctAnswer": "watch"
+    },
+    {
+      "question": "Could they find the right address?",
+      "options": ["Yes, they could", "No, they couldn’t", "Not sure", "Maybe"],
+      "correctAnswer": "Yes, they could"
+    },
+    {
+      "question": "I can ___ the answer to your question.",
+      "options": ["find", "finds", "finding", "found"],
+      "correctAnswer": "find"
+    },
+    {
+      "question": "Do you ___ to the gym every morning?",
+      "options": ["go", "goes", "going", "gone"],
+      "correctAnswer": "go"
+    },
+    {
+      "question": "He ___ not like spicy food.",
+      "options": ["do", "does", "did", "doesn't"],
+      "correctAnswer": "doesn't"
+    },
+    {
+      "question": "Does she ___ her homework before dinner?",
+      "options": ["finish", "finishes", "finishing", "finished"],
+      "correctAnswer": "finish"
+    },
+    {
+      "question": "We ___ often visit our grandparents on weekends.",
+      "options": ["do", "does", "doing", "done"],
+      "correctAnswer": "do"
+    },
+    {
+      "question": "Do they ___ usually eat lunch at home?",
+      "options": ["have", "has", "having", "had"],
+      "correctAnswer": "have"
+    },
+    {
+      "question": "She ___ not always go to bed early.",
+      "options": ["do", "does", "did", "doesn't"],
+      "correctAnswer": "doesn't"
+    },
+    {
+      "question": "Does he ___ the car every Saturday?",
+      "options": ["wash", "washes", "washing", "washed"],
+      "correctAnswer": "wash"
+    },
+    {
+      "question": "I ___ usually drink coffee in the morning.",
+      "options": ["do", "does", "did", "don't"],
+      "correctAnswer": "do"
+    },
+    {
+      "question": "Do you ___ sometimes listen to music while studying?",
+      "options": ["listen", "listens", "listening", "listened"],
+      "correctAnswer": "listen"
+    },
+    {
+      "question": "They ___ not often play video games.",
+      "options": ["do", "does", "did", "don't"],
+      "correctAnswer": "don't"
+    },
+    {
+      "question": "Does she ___ to the market every Friday?",
+      "options": ["go", "goes", "going", "gone"],
+      "correctAnswer": "go"
+    },
+    {
+      "question": "He ___ usually arrive on time.",
+      "options": ["do", "does", "did", "doesn't"],
+      "correctAnswer": "does"
+    },
+    {
+      "question": "Do we ___ often read books before bed?",
+      "options": ["read", "reads", "reading", "readed"],
+      "correctAnswer": "read"
+    },
+    {
+      "question": "She ___ not always watch TV in the evening.",
+      "options": ["do", "does", "did", "doesn't"],
+      "correctAnswer": "doesn't"
+    },
+    {
+      "question": "Does he ___ coffee in the morning?",
+      "options": ["drink", "drinks", "drinking", "drunk"],
+      "correctAnswer": "drink"
+    },
+    {
+      "question": "You ___ usually travel during the holidays.",
+      "options": ["do", "does", "did", "don't"],
+      "correctAnswer": "do"
+    },
+    {
+      "question": "Do they ___ often go to the cinema?",
+      "options": ["go", "goes", "going", "gone"],
+      "correctAnswer": "go"
+    },
+    {
+      "question": "I ___ not always eat breakfast in the morning.",
+      "options": ["do", "does", "did", "don't"],
+      "correctAnswer": "don't"
+    },
+    {
+      "question": "Does she ___ often help her friends?",
+      "options": ["help", "helps", "helping", "helped"],
+      "correctAnswer": "help"
+    },
+    {
+      "question": "They ___ usually walk to school.",
+      "options": ["do", "does", "did", "don't"],
+      "correctAnswer": "do"
+    },
+    {
+      "question": "Do you ___ sometimes take the bus to work?",
+      "options": ["take", "takes", "taking", "taken"],
+      "correctAnswer": "take"
+    },
+    {
+      "question": "He ___ often go swimming on weekends.",
+      "options": ["do", "does", "did", "doesn't"],
+      "correctAnswer": "does"
+    },
+    {
+      "question": "Does she ___ always bring her lunch to school?",
+      "options": ["bring", "brings", "bringing", "brought"],
+      "correctAnswer": "bring"
+    },
+    {
+      "question": "They ___ not usually work late.",
+      "options": ["do", "does", "did", "don't"],
+      "correctAnswer": "don't"
+    },
+    {
+      "question": "Do we ___ often call our parents on Sundays?",
+      "options": ["call", "calls", "calling", "called"],
+      "correctAnswer": "call"
+    },
+    {
+      "question": "She ___ usually read novels in her free time.",
+      "options": ["do", "does", "did", "doesn't"],
+      "correctAnswer": "does"
+    },
+    {
+      "question": "Does he ___ always finish his assignments on time?",
+      "options": ["finish", "finishes", "finishing", "finished"],
+      "correctAnswer": "finish"
+    },
+    {
+      "question": "We ___ not usually stay up late.",
+      "options": ["do", "does", "did", "don't"],
+      "correctAnswer": "don't"
+    },
+    {
+      "question": "Do they ___ sometimes play chess together?",
+      "options": ["play", "plays", "playing", "played"],
+      "correctAnswer": "play"
+    },
+    {
+      "question": "He ___ not usually eat lunch at noon.",
+      "options": ["do", "does", "did", "doesn't"],
+      "correctAnswer": "doesn't"
+    },
+    {
+      "question": "Does she ___ always arrive early to class?",
+      "options": ["arrive", "arrives", "arriving", "arrived"],
+      "correctAnswer": "arrive"
+    },
+    {
+      "question": "Where were you last night?",
+      "options": [
+        "At home",
+        "In the park",
+        "In the office",
+        "All of the above"
+      ],
+      "correctAnswer": "At home"
+    },
+    {
+      "question": "Was she at school yesterday?",
+      "options": ["Yes, she was", "No, she wasn’t", "I don’t know", "Maybe"],
+      "correctAnswer": "Yes, she was"
+    },
+    {
+      "question": "Were they happy with the results?",
+      "options": [
+        "Yes, they were",
+        "No, they weren’t",
+        "A little bit",
+        "Not sure"
+      ],
+      "correctAnswer": "Yes, they were"
+    },
+    {
+      "question": "He was not ___ at the party last night.",
+      "options": ["present", "absent", "there", "coming"],
+      "correctAnswer": "present"
+    },
+    {
+      "question": "Was the weather good yesterday?",
+      "options": ["Yes, it was", "No, it wasn’t", "It was okay", "Not sure"],
+      "correctAnswer": "Yes, it was"
+    },
+    {
+      "question": "Where ___ you yesterday afternoon?",
+      "options": ["was", "were", "did", "is"],
+      "correctAnswer": "were"
+    },
+    {
+      "question": "I ___ not at home when you called.",
+      "options": ["was", "were", "am", "is"],
+      "correctAnswer": "was"
+    },
+    {
+      "question": "She ___ very tired after the trip.",
+      "options": ["was", "were", "is", "be"],
+      "correctAnswer": "was"
+    },
+    {
+      "question": "Were you late for the meeting?",
+      "options": ["Yes, I was", "No, I wasn’t", "Maybe", "I forgot"],
+      "correctAnswer": "Yes, I was"
+    },
+    {
+      "question": "They ___ not in the same team last year.",
+      "options": ["was", "were", "is", "are"],
+      "correctAnswer": "were"
+    },
+    {
+      "question": "Was the movie interesting?",
+      "options": [
+        "Yes, it was",
+        "No, it wasn’t",
+        "Not really",
+        "I didn’t watch"
+      ],
+      "correctAnswer": "Yes, it was"
+    },
+    {
+      "question": "Where ___ she last weekend?",
+      "options": ["was", "were", "is", "be"],
+      "correctAnswer": "was"
+    },
+    {
+      "question": "I was not ___ to the event on time.",
+      "options": ["able to come", "arrived", "present", "going"],
+      "correctAnswer": "able to come"
+    },
+    {
+      "question": "He ___ at the office the whole day yesterday.",
+      "options": ["was", "were", "is", "been"],
+      "correctAnswer": "was"
+    },
+    {
+      "question": "Were we supposed to bring our ID cards?",
+      "options": ["Yes, we were", "No, we weren’t", "Maybe", "I don’t know"],
+      "correctAnswer": "Yes, we were"
+    },
+    {
+      "question": "She ___ not at her desk when I looked.",
+      "options": ["was", "were", "is", "be"],
+      "correctAnswer": "was"
+    },
+    {
+      "question": "Was the shop open in the morning?",
+      "options": ["Yes, it was", "No, it wasn’t", "I’m not sure", "It depends"],
+      "correctAnswer": "Yes, it was"
+    },
+    {
+      "question": "They ___ not ready for the test yesterday.",
+      "options": ["was", "were", "is", "are"],
+      "correctAnswer": "were"
+    },
+    {
+      "question": "Who was your favorite teacher in school?",
+      "options": ["Mr. John", "Mrs. Smith", "Miss Jane", "I don’t know"],
+      "correctAnswer": "Mrs. Smith"
+    },
+    {
+      "question": "Where ___ the keys yesterday?",
+      "options": ["was", "were", "is", "are"],
+      "correctAnswer": "were"
+    },
+    {
+      "question": "Was it difficult to find the address?",
+      "options": ["Yes, it was", "No, it wasn’t", "A little", "Not at all"],
+      "correctAnswer": "Yes, it was"
+    },
+    {
+      "question": "She was not ___ to finish the project on time.",
+      "options": ["able", "ready", "willing", "going"],
+      "correctAnswer": "able"
+    },
+    {
+      "question": "Were the students happy with their grades?",
+      "options": [
+        "Yes, they were",
+        "No, they weren’t",
+        "Some of them",
+        "Not sure"
+      ],
+      "correctAnswer": "Yes, they were"
+    },
+    {
+      "question": "He ___ not at the library yesterday evening.",
+      "options": ["was", "were", "is", "be"],
+      "correctAnswer": "was"
+    },
+    {
+      "question": "Where ___ the meeting held last month?",
+      "options": ["was", "were", "is", "be"],
+      "correctAnswer": "was"
+    },
+    {
+      "question": "They ___ happy with the outcome of the event.",
+      "options": ["were", "was", "are", "is"],
+      "correctAnswer": "were"
+    },
+    {
+      "question": "Was the task completed on time?",
+      "options": ["Yes, it was", "No, it wasn’t", "Partially", "I don’t know"],
+      "correctAnswer": "Yes, it was"
+    },
+    {
+      "question": "Where ___ you yesterday during lunch?",
+      "options": ["were", "was", "are", "be"],
+      "correctAnswer": "were"
+    },
+    {
+      "question": "He ___ very happy with the gift he received.",
+      "options": ["was", "were", "is", "been"],
+      "correctAnswer": "was"
+    },
+    {
+      "question": "Was it easy to find the solution?",
+      "options": ["Yes, it was", "No, it wasn’t", "Not really", "Very hard"],
+      "correctAnswer": "Yes, it was"
+    },
+    {
+      "question": "Did you finish your homework yesterday?",
+      "options": ["Yes, I did", "No, I didn’t", "I forgot", "Not sure"],
+      "correctAnswer": "Yes, I did"
+    },
+    {
+      "question": "What did she cook for dinner?",
+      "options": ["Pasta", "Soup", "Pizza", "All of the above"],
+      "correctAnswer": "Pasta"
+    },
+    {
+      "question": "Did they enjoy the concert?",
+      "options": ["Yes, they did", "No, they didn’t", "Maybe", "I don’t know"],
+      "correctAnswer": "Yes, they did"
+    },
+    {
+      "question": "I did not ___ the email you sent.",
+      "options": ["receive", "read", "write", "send"],
+      "correctAnswer": "receive"
+    },
+    {
+      "question": "Did he call you yesterday?",
+      "options": ["Yes, he did", "No, he didn’t", "Not sure", "Maybe"],
+      "correctAnswer": "Yes, he did"
+    },
+    {
+      "question": "She ___ not attend the meeting last week.",
+      "options": ["did", "didn’t", "don’t", "wasn’t"],
+      "correctAnswer": "didn’t"
+    },
+    {
+      "question": "Did we miss the train?",
+      "options": ["Yes, we did", "No, we didn’t", "Maybe", "I don’t know"],
+      "correctAnswer": "Yes, we did"
+    },
+    {
+      "question": "What did you do over the weekend?",
+      "options": [
+        "I stayed home",
+        "I went hiking",
+        "I visited friends",
+        "All of the above"
+      ],
+      "correctAnswer": "All of the above"
+    },
+    {
+      "question": "He did not ___ the task on time.",
+      "options": ["complete", "start", "submit", "do"],
+      "correctAnswer": "complete"
+    },
+    {
+      "question": "Did you understand the instructions?",
+      "options": ["Yes, I did", "No, I didn’t", "Not really", "Partially"],
+      "correctAnswer": "Yes, I did"
+    },
+    {
+      "question": "Where did they go for vacation?",
+      "options": ["The beach", "The mountains", "The city", "I don’t know"],
+      "correctAnswer": "The beach"
+    },
+    {
+      "question": "She did not ___ the invitation.",
+      "options": ["accept", "receive", "send", "see"],
+      "correctAnswer": "accept"
+    },
+    {
+      "question": "Did you see the movie?",
+      "options": ["Yes, I did", "No, I didn’t", "Not sure", "Maybe"],
+      "correctAnswer": "Yes, I did"
+    },
+    {
+      "question": "What time did the meeting start?",
+      "options": ["At 9 AM", "At 10 AM", "At 11 AM", "Not sure"],
+      "correctAnswer": "At 9 AM"
+    },
+    {
+      "question": "They did not ___ the deadline.",
+      "options": ["meet", "extend", "set", "miss"],
+      "correctAnswer": "meet"
+    },
+    {
+      "question": "Did he attend the event?",
+      "options": ["Yes, he did", "No, he didn’t", "Not sure", "Maybe"],
+      "correctAnswer": "Yes, he did"
+    },
+    {
+      "question": "Where did you buy the book?",
+      "options": [
+        "Online",
+        "At the bookstore",
+        "At the library",
+        "I don’t remember"
+      ],
+      "correctAnswer": "At the bookstore"
+    },
+    {
+      "question": "I did not ___ the message clearly.",
+      "options": ["hear", "read", "write", "send"],
+      "correctAnswer": "hear"
+    },
+    {
+      "question": "Did they arrive on time?",
+      "options": ["Yes, they did", "No, they didn’t", "Not really", "Maybe"],
+      "correctAnswer": "Yes, they did"
+    },
+    {
+      "question": "What did she say during the meeting?",
+      "options": [
+        "I agree",
+        "I disagree",
+        "I have a question",
+        "All of the above"
+      ],
+      "correctAnswer": "All of the above"
+    },
+    {
+      "question": "Did he help you with the project?",
+      "options": ["Yes, he did", "No, he didn’t", "Not sure", "Maybe"],
+      "correctAnswer": "Yes, he did"
+    },
+    {
+      "question": "I did not ___ the train station.",
+      "options": ["find", "miss", "enter", "leave"],
+      "correctAnswer": "find"
+    },
+    {
+      "question": "Where did they park the car?",
+      "options": ["In the garage", "On the street", "At the mall", "Not sure"],
+      "correctAnswer": "In the garage"
+    },
+    {
+      "question": "She did not ___ the appointment on time.",
+      "options": ["attend", "schedule", "cancel", "confirm"],
+      "correctAnswer": "attend"
+    },
+    {
+      "question": "Did you call your friend?",
+      "options": ["Yes, I did", "No, I didn’t", "Not yet", "Maybe"],
+      "correctAnswer": "Yes, I did"
+    },
+    {
+      "question": "What did you learn from the class?",
+      "options": ["Grammar", "Vocabulary", "Pronunciation", "All of the above"],
+      "correctAnswer": "All of the above"
+    },
+    {
+      "question": "He did not ___ the task correctly.",
+      "options": ["complete", "perform", "start", "review"],
+      "correctAnswer": "perform"
+    },
+    {
+      "question": "Did she explain the rules clearly?",
+      "options": ["Yes, she did", "No, she didn’t", "Not really", "Maybe"],
+      "correctAnswer": "Yes, she did"
+    },
+    {
+      "question": "Where did you put the keys?",
+      "options": ["On the table", "In the drawer", "In my bag", "I forgot"],
+      "correctAnswer": "In the drawer"
+    },
+    {
+      "question": "Did they enjoy the dinner?",
+      "options": ["Yes, they did", "No, they didn’t", "A little", "Not really"],
+      "correctAnswer": "Yes, they did"
+    },
+    {
+      "question": "Will you visit your family next week?",
+      "options": ["Yes, I will", "No, I won’t", "Not sure", "Maybe"],
+      "correctAnswer": "Yes, I will"
+    },
+    {
+      "question": "She will ___ her homework tomorrow.",
+      "options": ["finish", "finishes", "finished", "finishing"],
+      "correctAnswer": "finish"
+    },
+    {
+      "question": "Will they come to the party?",
+      "options": ["Yes, they will", "No, they won’t", "Not sure", "Maybe"],
+      "correctAnswer": "Yes, they will"
+    },
+    {
+      "question": "We will not ___ the meeting today.",
+      "options": ["attend", "attends", "attending", "attended"],
+      "correctAnswer": "attend"
+    },
+    {
+      "question": "Will he travel to Spain this summer?",
+      "options": ["Yes, he will", "No, he won’t", "Not sure", "Maybe"],
+      "correctAnswer": "Yes, he will"
+    },
+    {
+      "question": "They will ___ the house next month.",
+      "options": ["paint", "paints", "painting", "painted"],
+      "correctAnswer": "paint"
+    },
+    {
+      "question": "Will we finish the project on time?",
+      "options": ["Yes, we will", "No, we won’t", "Not sure", "Maybe"],
+      "correctAnswer": "Yes, we will"
+    },
+    {
+      "question": "I will not ___ late to the meeting.",
+      "options": ["arrive", "arrives", "arriving", "arrived"],
+      "correctAnswer": "arrive"
+    },
+    {
+      "question": "Will you help me with this task?",
+      "options": ["Yes, I will", "No, I won’t", "Not sure", "Maybe"],
+      "correctAnswer": "Yes, I will"
+    },
+    {
+      "question": "She will ___ dinner for us tonight.",
+      "options": ["cook", "cooks", "cooking", "cooked"],
+      "correctAnswer": "cook"
+    },
+    {
+      "question": "Will they go shopping this weekend?",
+      "options": ["Yes, they will", "No, they won’t", "Not sure", "Maybe"],
+      "correctAnswer": "Yes, they will"
+    },
+    {
+      "question": "We will not ___ to the park today.",
+      "options": ["go", "goes", "going", "gone"],
+      "correctAnswer": "go"
+    },
+    {
+      "question": "Will he call you tomorrow?",
+      "options": ["Yes, he will", "No, he won’t", "Not sure", "Maybe"],
+      "correctAnswer": "Yes, he will"
+    },
+    {
+      "question": "I will ___ you after lunch.",
+      "options": ["call", "calls", "calling", "called"],
+      "correctAnswer": "call"
+    },
+    {
+      "question": "Will she join the meeting on Monday?",
+      "options": ["Yes, she will", "No, she won’t", "Not sure", "Maybe"],
+      "correctAnswer": "Yes, she will"
+    },
+    {
+      "question": "They will not ___ to the museum this weekend.",
+      "options": ["go", "goes", "going", "gone"],
+      "correctAnswer": "go"
+    },
+    {
+      "question": "Will you bring the documents to the office?",
+      "options": ["Yes, I will", "No, I won’t", "Not sure", "Maybe"],
+      "correctAnswer": "Yes, I will"
+    },
+    {
+      "question": "She will ___ her presentation next week.",
+      "options": ["give", "gives", "giving", "given"],
+      "correctAnswer": "give"
+    },
+    {
+      "question": "Will they move to a new house next year?",
+      "options": ["Yes, they will", "No, they won’t", "Not sure", "Maybe"],
+      "correctAnswer": "Yes, they will"
+    },
+    {
+      "question": "I will not ___ to the office tomorrow.",
+      "options": ["go", "goes", "going", "gone"],
+      "correctAnswer": "go"
+    },
+    {
+      "question": "Will we meet the deadline?",
+      "options": ["Yes, we will", "No, we won’t", "Not sure", "Maybe"],
+      "correctAnswer": "Yes, we will"
+    },
+    {
+      "question": "He will ___ the new project soon.",
+      "options": ["start", "starts", "starting", "started"],
+      "correctAnswer": "start"
+    },
+    {
+      "question": "Will she visit her grandparents this weekend?",
+      "options": ["Yes, she will", "No, she won’t", "Not sure", "Maybe"],
+      "correctAnswer": "Yes, she will"
+    },
+    {
+      "question": "They will not ___ the car this month.",
+      "options": ["buy", "buys", "buying", "bought"],
+      "correctAnswer": "buy"
+    },
+    {
+      "question": "Will he send the email later?",
+      "options": ["Yes, he will", "No, he won’t", "Not sure", "Maybe"],
+      "correctAnswer": "Yes, he will"
+    },
+    {
+      "question": "We will ___ the garden next weekend.",
+      "options": ["clean", "cleans", "cleaning", "cleaned"],
+      "correctAnswer": "clean"
+    },
+    {
+      "question": "Will you attend the conference?",
+      "options": ["Yes, I will", "No, I won’t", "Not sure", "Maybe"],
+      "correctAnswer": "Yes, I will"
+    },
+    {
+      "question": "I will not ___ you with this problem.",
+      "options": ["help", "helps", "helping", "helped"],
+      "correctAnswer": "help"
+    },
+    {
+      "question": "Will she finish her book by next week?",
+      "options": ["Yes, she will", "No, she won’t", "Not sure", "Maybe"],
+      "correctAnswer": "Yes, she will"
+    },
+    {
+      "question": "They will ___ their friends on Saturday.",
+      "options": ["meet", "meets", "meeting", "met"],
+      "correctAnswer": "meet"
+    },
+    {
+      "question": "She ___ a teacher.",
+      "options": ["am", "is", "are", "be"],
+      "correctAnswer": "is"
+    },
+    {
+      "question": "They ___ at home.",
+      "options": ["am", "is", "are", "be"],
+      "correctAnswer": "are"
+    },
+    {
+      "question": "I ___ tired.",
+      "options": ["am", "is", "are", "be"],
+      "correctAnswer": "am"
+    },
+    {
+      "question": "We ___ not hungry.",
+      "options": ["am", "is", "are", "be"],
+      "correctAnswer": "are"
+    },
+    {
+      "question": "He ___ happy.",
+      "options": ["am", "is", "are", "be"],
+      "correctAnswer": "is"
+    },
+    {
+      "question": "You ___ not a doctor.",
+      "options": ["am", "is", "are", "be"],
+      "correctAnswer": "are"
+    },
+    {
+      "question": "It ___ a sunny day.",
+      "options": ["am", "is", "are", "be"],
+      "correctAnswer": "is"
+    },
+    {
+      "question": "We ___ friends.",
+      "options": ["am", "is", "are", "be"],
+      "correctAnswer": "are"
+    },
+    {
+      "question": "They ___ not students.",
+      "options": ["am", "is", "are", "be"],
+      "correctAnswer": "are"
+    },
+    {
+      "question": "I ___ not from England.",
+      "options": ["am", "is", "are", "be"],
+      "correctAnswer": "am"
+    },
+    {
+      "question": "___ she a doctor?",
+      "options": ["Am", "Is", "Are", "Be"],
+      "correctAnswer": "Is"
+    },
+    {
+      "question": "___ they at the park?",
+      "options": ["Am", "Is", "Are", "Be"],
+      "correctAnswer": "Are"
+    },
+    {
+      "question": "___ it a dog?",
+      "options": ["Am", "Is", "Are", "Be"],
+      "correctAnswer": "Is"
+    },
+    {
+      "question": "___ you happy?",
+      "options": ["Am", "Is", "Are", "Be"],
+      "correctAnswer": "Are"
+    },
+    {
+      "question": "___ I late?",
+      "options": ["Am", "Is", "Are", "Be"],
+      "correctAnswer": "Am"
+    },
+    {
+      "question": "Who ___ your best friend?",
+      "options": ["am", "is", "are", "be"],
+      "correctAnswer": "is"
+    },
+    {
+      "question": "Why ___ you sad?",
+      "options": ["am", "is", "are", "be"],
+      "correctAnswer": "are"
+    },
+    {
+      "question": "Where ___ they now?",
+      "options": ["am", "is", "are", "be"],
+      "correctAnswer": "are"
+    },
+    {
+      "question": "What ___ this?",
+      "options": ["am", "is", "are", "be"],
+      "correctAnswer": "is"
+    },
+    {
+      "question": "How ___ you today?",
+      "options": ["am", "is", "are", "be"],
+      "correctAnswer": "are"
+    },
+    {
+      "question": "He ___ not a singer.",
+      "options": ["am", "is", "are", "be"],
+      "correctAnswer": "is"
+    },
+    {
+      "question": "We ___ not tired.",
+      "options": ["am", "is", "are", "be"],
+      "correctAnswer": "are"
+    },
+    {
+      "question": "It ___ not a bird.",
+      "options": ["am", "is", "are", "be"],
+      "correctAnswer": "is"
+    },
+    {
+      "question": "You ___ not late.",
+      "options": ["am", "is", "are", "be"],
+      "correctAnswer": "are"
+    },
+    {
+      "question": "I ___ not a student.",
+      "options": ["am", "is", "are", "be"],
+      "correctAnswer": "am"
+    },
+    {
+      "question": "She ___ not from here.",
+      "options": ["am", "is", "are", "be"],
+      "correctAnswer": "is"
+    },
+    {
+      "question": "___ they not ready?",
+      "options": ["Am", "Is", "Are", "Be"],
+      "correctAnswer": "Are"
+    },
+    {
+      "question": "___ it not true?",
+      "options": ["Am", "Is", "Are", "Be"],
+      "correctAnswer": "Is"
+    },
+    {
+      "question": "___ she not here?",
+      "options": ["Am", "Is", "Are", "Be"],
+      "correctAnswer": "Is"
+    },
+    {
+      "question": "___ I not your friend?",
+      "options": ["Am", "Is", "Are", "Be"],
+      "correctAnswer": "Am"
+    },
+    {
+      "question": "We are friends, ___?",
+      "options": ["are we", "aren't we", "isn't we", "isn't it"],
+      "correctAnswer": "aren't we"
+    },
+    {
+      "question": "She is here, ___?",
+      "options": ["is she", "isn't she", "are she", "aren't she"],
+      "correctAnswer": "isn't she"
+    },
+    {
+      "question": "They are at the park, ___?",
+      "options": ["are they", "aren't they", "is they", "isn't they"],
+      "correctAnswer": "aren't they"
+    },
+    {
+      "question": "It is raining, ___?",
+      "options": ["is it", "isn't it", "are it", "aren't it"],
+      "correctAnswer": "isn't it"
+    },
+    {
+      "question": "I am late, ___?",
+      "options": ["am I", "aren't I", "is I", "isn't I"],
+      "correctAnswer": "aren't I"
+    },
+    {
+      "question": "___ he a good player?",
+      "options": ["Am", "Is", "Are", "Be"],
+      "correctAnswer": "Is"
+    },
+    {
+      "question": "We ___ in the same team.",
+      "options": ["am", "is", "are", "be"],
+      "correctAnswer": "are"
+    },
+    {
+      "question": "They ___ from Italy.",
+      "options": ["am", "is", "are", "be"],
+      "correctAnswer": "are"
+    },
+    {
+      "question": "You ___ my neighbor.",
+      "options": ["am", "is", "are", "be"],
+      "correctAnswer": "are"
+    },
+    {
+      "question": "___ you my friend?",
+      "options": ["Am", "Is", "Are", "Be"],
+      "correctAnswer": "Are"
+    },
+    {
+      "question": "They ___ every day.",
+      "options": ["read", "reads", "reading", "is reading"],
+      "correctAnswer": "read"
+    },
+    {
+      "question": "She ___ to the park in the mornings.",
+      "options": ["walk", "walks", "walking", "is walking"],
+      "correctAnswer": "walks"
+    },
+    {
+      "question": "He ___ not play football on Sundays.",
+      "options": ["do", "does", "did", "doesn't"],
+      "correctAnswer": "doesn't"
+    },
+    {
+      "question": "Do you ___ coffee in the morning?",
+      "options": ["drink", "drinks", "drinking", "drunk"],
+      "correctAnswer": "drink"
+    },
+    {
+      "question": "We ___ to the library every Saturday.",
+      "options": ["go", "goes", "going", "gone"],
+      "correctAnswer": "go"
+    },
+    {
+      "question": "Does she ___ English fluently?",
+      "options": ["speak", "speaks", "speaking", "spoken"],
+      "correctAnswer": "speak"
+    },
+    {
+      "question": "I ___ not watch TV in the evening.",
+      "options": ["do", "does", "did", "don't"],
+      "correctAnswer": "don't"
+    },
+    {
+      "question": "They ___ their homework after school.",
+      "options": ["do", "does", "doing", "done"],
+      "correctAnswer": "do"
+    },
+    {
+      "question": "He ___ not drive to work.",
+      "options": ["do", "does", "did", "doesn't"],
+      "correctAnswer": "doesn't"
+    },
+    {
+      "question": "Do we ___ enough time to finish this?",
+      "options": ["have", "has", "having", "had"],
+      "correctAnswer": "have"
+    },
+    {
+      "question": "She ___ breakfast at 8 o'clock.",
+      "options": ["eat", "eats", "eating", "ate"],
+      "correctAnswer": "eats"
+    },
+    {
+      "question": "I ___ not like spicy food.",
+      "options": ["do", "does", "did", "don't"],
+      "correctAnswer": "don't"
+    },
+    {
+      "question": "Does he ___ the guitar well?",
+      "options": ["play", "plays", "playing", "played"],
+      "correctAnswer": "play"
+    },
+    {
+      "question": "We ___ dinner together every night.",
+      "options": ["have", "has", "having", "had"],
+      "correctAnswer": "have"
+    },
+    {
+      "question": "Do they ___ movies on weekends?",
+      "options": ["watch", "watches", "watching", "watched"],
+      "correctAnswer": "watch"
+    },
+    {
+      "question": "He ___ not enjoy long meetings.",
+      "options": ["do", "does", "did", "doesn't"],
+      "correctAnswer": "doesn't"
+    },
+    {
+      "question": "Does she ___ to music while working?",
+      "options": ["listen", "listens", "listening", "listened"],
+      "correctAnswer": "listen"
+    },
+    {
+      "question": "They ___ football every afternoon.",
+      "options": ["play", "plays", "playing", "played"],
+      "correctAnswer": "play"
+    },
+    {
+      "question": "He ___ not clean his room regularly.",
+      "options": ["do", "does", "did", "doesn't"],
+      "correctAnswer": "doesn't"
+    },
+    {
+      "question": "Do you ___ books in your free time?",
+      "options": ["read", "reads", "reading", "readed"],
+      "correctAnswer": "read"
+    },
+    {
+      "question": "She ___ to the gym every day.",
+      "options": ["go", "goes", "going", "gone"],
+      "correctAnswer": "goes"
+    },
+    {
+      "question": "Do they ___ their homework after dinner?",
+      "options": ["finish", "finishes", "finishing", "finished"],
+      "correctAnswer": "finish"
+    },
+    {
+      "question": "He ___ not eat meat.",
+      "options": ["do", "does", "did", "doesn't"],
+      "correctAnswer": "doesn't"
+    },
+    {
+      "question": "We ___ music in the evenings.",
+      "options": ["listen", "listens", "listening", "listened"],
+      "correctAnswer": "listen"
+    },
+    {
+      "question": "Does she ___ her clothes every weekend?",
+      "options": ["wash", "washes", "washing", "washed"],
+      "correctAnswer": "wash"
+    },
+    {
+      "question": "I ___ not like cold weather.",
+      "options": ["do", "does", "did", "don't"],
+      "correctAnswer": "don't"
+    },
+    {
+      "question": "They ___ breakfast at 7 o'clock.",
+      "options": ["have", "has", "having", "had"],
+      "correctAnswer": "have"
+    },
+    {
+      "question": "Does he ___ to work by bus?",
+      "options": ["travel", "travels", "traveling", "traveled"],
+      "correctAnswer": "travel"
+    },
+    {
+      "question": "You ___ not understand this topic.",
+      "options": ["do", "does", "did", "don't"],
+      "correctAnswer": "don't"
+    },
+    {
+      "question": "Do we ___ pizza on Fridays?",
+      "options": ["eat", "eats", "eating", "eaten"],
+      "correctAnswer": "eat"
+    },
+    {
+      "question": "She ___ the piano beautifully.",
+      "options": ["play", "plays", "playing", "played"],
+      "correctAnswer": "plays"
+    },
+    {
+      "question": "He ___ not read novels.",
+      "options": ["do", "does", "did", "doesn't"],
+      "correctAnswer": "doesn't"
+    },
+    {
+      "question": "Do they ___ hiking on weekends?",
+      "options": ["enjoy", "enjoys", "enjoying", "enjoyed"],
+      "correctAnswer": "enjoy"
+    },
+    {
+      "question": "We ___ not watch movies during the week.",
+      "options": ["do", "does", "did", "don't"],
+      "correctAnswer": "don't"
+    },
+    {
+      "question": "Does she ___ books in her free time?",
+      "options": ["read", "reads", "reading", "readed"],
+      "correctAnswer": "read"
+    },
+    {
+      "question": "I ___ tea every morning.",
+      "options": ["drink", "drinks", "drinking", "drunk"],
+      "correctAnswer": "drink"
+    },
+    {
+      "question": "He ___ not visit his grandparents often.",
+      "options": ["do", "does", "did", "doesn't"],
+      "correctAnswer": "doesn't"
+    },
+    {
+      "question": "Do you ___ English every day?",
+      "options": ["practice", "practices", "practicing", "practiced"],
+      "correctAnswer": "practice"
+    },
+    {
+      "question": "They ___ soccer after school.",
+      "options": ["play", "plays", "playing", "played"],
+      "correctAnswer": "play"
+    },
+    {
+      "question": "He ___ not enjoy cooking dinner.",
+      "options": ["do", "does", "did", "doesn't"],
+      "correctAnswer": "doesn't"
+    },
+    {
+      "question": "Where is the nearest hospital?",
+      "options": [
+        "It is in the city center.",
+        "He is at work.",
+        "She is a doctor.",
+        "They are my friends."
+      ],
+      "correctAnswer": "It is in the city center."
+    },
+    {
+      "question": "What is your favorite food?",
+      "options": ["Pizza", "Red", "Seven", "On Monday"],
+      "correctAnswer": "Pizza"
+    },
+    {
+      "question": "Who is your best friend?",
+      "options": ["My sister", "At home", "By bus", "In the park"],
+      "correctAnswer": "My sister"
+    },
+    {
+      "question": "How do you go to school?",
+      "options": ["By bus", "On Monday", "My teacher", "Blue"],
+      "correctAnswer": "By bus"
+    },
+    {
+      "question": "Why are you late?",
+      "options": [
+        "Because the bus was late",
+        "At 9 o'clock",
+        "It is sunny",
+        "I am a teacher"
+      ],
+      "correctAnswer": "Because the bus was late"
+    },
+    {
+      "question": "Where are my keys?",
+      "options": ["On the table", "My brother", "Running", "Yesterday"],
+      "correctAnswer": "On the table"
+    },
+    {
+      "question": "What is your favorite color?",
+      "options": ["Blue", "At school", "John", "By car"],
+      "correctAnswer": "Blue"
+    },
+    {
+      "question": "Who is your teacher?",
+      "options": ["Mr. Brown", "In the garden", "With a pen", "Next week"],
+      "correctAnswer": "Mr. Brown"
+    },
+    {
+      "question": "How is the weather today?",
+      "options": ["Sunny", "At 3 PM", "My sister", "To the park"],
+      "correctAnswer": "Sunny"
+    },
+    {
+      "question": "Why are you sad?",
+      "options": ["Because I lost my phone", "At 2 PM", "To school", "Green"],
+      "correctAnswer": "Because I lost my phone"
+    },
+    {
+      "question": "Where do you live?",
+      "options": ["In New York", "To the park", "My cousin", "Red"],
+      "correctAnswer": "In New York"
+    },
+    {
+      "question": "What time is it?",
+      "options": [
+        "It is 5 o'clock",
+        "In the box",
+        "At the library",
+        "To play soccer"
+      ],
+      "correctAnswer": "It is 5 o'clock"
+    },
+    {
+      "question": "Who is at the door?",
+      "options": ["The mailman", "At school", "Sunny", "My car"],
+      "correctAnswer": "The mailman"
+    },
+    {
+      "question": "How do you feel today?",
+      "options": ["Happy", "By train", "At the cinema", "The red one"],
+      "correctAnswer": "Happy"
+    },
+    {
+      "question": "Why is the sky blue?",
+      "options": [
+        "Because of the sunlight",
+        "At 4 PM",
+        "My brother",
+        "To London"
+      ],
+      "correctAnswer": "Because of the sunlight"
+    },
+    {
+      "question": "Where is your phone?",
+      "options": ["On the desk", "In the garden", "It is sunny", "By train"],
+      "correctAnswer": "On the desk"
+    },
+    {
+      "question": "What is this?",
+      "options": ["It is a pen", "By car", "At 10 o'clock", "My teacher"],
+      "correctAnswer": "It is a pen"
+    },
+    {
+      "question": "Who are you waiting for?",
+      "options": ["My friend", "At school", "On the table", "Happy"],
+      "correctAnswer": "My friend"
+    },
+    {
+      "question": "How do you make tea?",
+      "options": ["With hot water", "My brother", "At 7 PM", "In the box"],
+      "correctAnswer": "With hot water"
+    },
+    {
+      "question": "Why is she crying?",
+      "options": ["Because she is sad", "At school", "By train", "Red"],
+      "correctAnswer": "Because she is sad"
+    },
+    {
+      "question": "Where are the children?",
+      "options": ["In the garden", "To the park", "My cousin", "At 2 PM"],
+      "correctAnswer": "In the garden"
+    },
+    {
+      "question": "What is your hobby?",
+      "options": [
+        "Playing guitar",
+        "In the box",
+        "To the school",
+        "My teacher"
+      ],
+      "correctAnswer": "Playing guitar"
+    },
+    {
+      "question": "Who is at the party?",
+      "options": ["My friends", "To London", "At school", "Red"],
+      "correctAnswer": "My friends"
+    },
+    {
+      "question": "How old are you?",
+      "options": ["25 years old", "At the park", "My brother", "Blue"],
+      "correctAnswer": "25 years old"
+    },
+    {
+      "question": "Why are they running?",
+      "options": [
+        "Because they are late",
+        "To the school",
+        "In the park",
+        "It is sunny"
+      ],
+      "correctAnswer": "Because they are late"
+    },
+    {
+      "question": "Where is the library?",
+      "options": ["Next to the bank", "To London", "At 2 PM", "My teacher"],
+      "correctAnswer": "Next to the bank"
+    },
+    {
+      "question": "What is your job?",
+      "options": [
+        "I am a teacher",
+        "At the library",
+        "With my friends",
+        "My brother"
+      ],
+      "correctAnswer": "I am a teacher"
+    },
+    {
+      "question": "Who is your role model?",
+      "options": ["My father", "By train", "At school", "In the garden"],
+      "correctAnswer": "My father"
+    },
+    {
+      "question": "How is your new house?",
+      "options": ["Big and beautiful", "At the park", "By bus", "My friend"],
+      "correctAnswer": "Big and beautiful"
+    },
+    {
+      "question": "There are ___ apples in the basket.",
+      "options": ["much", "many", "a little", "few"],
+      "correctAnswer": "many"
+    },
+    {
+      "question": "She has ___ money in her wallet.",
+      "options": ["a few", "much", "a lot of", "little"],
+      "correctAnswer": "a lot of"
+    },
+    {
+      "question": "He drank ___ water after the run.",
+      "options": ["few", "a little", "a lot of", "many"],
+      "correctAnswer": "a little"
+    },
+    {
+      "question": "There aren’t ___ chairs in the room.",
+      "options": ["much", "a lot of", "many", "little"],
+      "correctAnswer": "many"
+    },
+    {
+      "question": "We have ___ time to finish this project.",
+      "options": ["a little", "much", "few", "many"],
+      "correctAnswer": "a little"
+    },
+    {
+      "question": "How ___ sugar do you need?",
+      "options": ["many", "a lot of", "much", "few"],
+      "correctAnswer": "much"
+    },
+    {
+      "question": "There are only ___ books on the shelf.",
+      "options": ["few", "a lot of", "much", "little"],
+      "correctAnswer": "few"
+    },
+    {
+      "question": "We don’t have ___ milk left.",
+      "options": ["a lot of", "few", "much", "many"],
+      "correctAnswer": "much"
+    },
+    {
+      "question": "She gave me ___ advice about my trip.",
+      "options": ["a lot of", "few", "many", "a little"],
+      "correctAnswer": "a lot of"
+    },
+    {
+      "question": "There are ___ people at the party.",
+      "options": ["a little", "few", "many", "much"],
+      "correctAnswer": "many"
+    },
+    {
+      "question": "We need ___ eggs for this recipe.",
+      "options": ["a few", "much", "a little", "few"],
+      "correctAnswer": "a few"
+    },
+    {
+      "question": "He has ___ friends in the city.",
+      "options": ["a little", "much", "a lot of", "few"],
+      "correctAnswer": "a lot of"
+    },
+    {
+      "question": "There isn’t ___ sugar in the jar.",
+      "options": ["few", "a lot of", "much", "many"],
+      "correctAnswer": "much"
+    },
+    {
+      "question": "How ___ pencils do you need?",
+      "options": ["much", "few", "a little", "many"],
+      "correctAnswer": "many"
+    },
+    {
+      "question": "He drank ___ coffee this morning.",
+      "options": ["a lot of", "few", "many", "little"],
+      "correctAnswer": "a lot of"
+    },
+    {
+      "question": "There are ___ flowers in the garden.",
+      "options": ["few", "a lot of", "much", "a little"],
+      "correctAnswer": "a lot of"
+    },
+    {
+      "question": "We have only ___ minutes left.",
+      "options": ["few", "a little", "much", "many"],
+      "correctAnswer": "few"
+    },
+    {
+      "question": "How ___ water do you drink daily?",
+      "options": ["much", "many", "a few", "little"],
+      "correctAnswer": "much"
+    },
+    {
+      "question": "She has ___ money to buy the book.",
+      "options": ["a few", "little", "a lot of", "many"],
+      "correctAnswer": "a lot of"
+    },
+    {
+      "question": "There are ___ problems to solve.",
+      "options": ["a little", "few", "much", "many"],
+      "correctAnswer": "few"
+    },
+    {
+      "question": "He bought ___ apples from the market.",
+      "options": ["much", "a few", "many", "a lot of"],
+      "correctAnswer": "a few"
+    },
+    {
+      "question": "We need ___ flour for the cake.",
+      "options": ["many", "much", "a few", "few"],
+      "correctAnswer": "much"
+    },
+    {
+      "question": "There is only ___ juice left in the fridge.",
+      "options": ["a little", "a few", "many", "little"],
+      "correctAnswer": "a little"
+    },
+    {
+      "question": "How ___ cars are parked outside?",
+      "options": ["much", "many", "a little", "few"],
+      "correctAnswer": "many"
+    },
+    {
+      "question": "She found ___ mistakes in the report.",
+      "options": ["a lot of", "few", "much", "a little"],
+      "correctAnswer": "few"
+    },
+    {
+      "question": "We don’t have ___ bread for dinner.",
+      "options": ["much", "a few", "many", "little"],
+      "correctAnswer": "much"
+    },
+    {
+      "question": "There are ___ birds in the tree.",
+      "options": ["many", "much", "few", "a little"],
+      "correctAnswer": "many"
+    },
+    {
+      "question": "He drank ___ tea after lunch.",
+      "options": ["a lot of", "few", "many", "little"],
+      "correctAnswer": "a lot of"
+    },
+    {
+      "question": "How ___ chairs are there in the room?",
+      "options": ["much", "a little", "many", "few"],
+      "correctAnswer": "many"
+    },
+    {
+      "question": "She has only ___ time to finish her homework.",
+      "options": ["little", "few", "a lot of", "many"],
+      "correctAnswer": "little"
+    },
+    {
+      "question": "They bought ___ oranges at the market.",
+      "options": ["much", "many", "few", "a lot of"],
+      "correctAnswer": "many"
+    },
+    {
+      "question": "We need ___ effort to complete this task.",
+      "options": ["little", "a little", "few", "much"],
+      "correctAnswer": "a little"
+    },
+    {
+      "question": "How ___ books do you read in a month?",
+      "options": ["many", "a few", "much", "little"],
+      "correctAnswer": "many"
+    },
+    {
+      "question": "There isn’t ___ water left in the bottle.",
+      "options": ["much", "few", "many", "a lot of"],
+      "correctAnswer": "much"
+    },
+    {
+      "question": "He found ___ errors in the document.",
+      "options": ["a lot of", "few", "little", "much"],
+      "correctAnswer": "few"
+    },
+    {
+      "question": "How ___ friends does she have?",
+      "options": ["much", "many", "a little", "few"],
+      "correctAnswer": "many"
+    },
+    {
+      "question": "We have ___ milk in the fridge.",
+      "options": ["a little", "a few", "few", "many"],
+      "correctAnswer": "a little"
+    },
+    {
+      "question": "How ___ sugar do you need for the recipe?",
+      "options": ["many", "much", "a few", "little"],
+      "correctAnswer": "much"
+    },
+    {
+      "question": "There are ___ chairs in the living room.",
+      "options": ["many", "much", "few", "a lot of"],
+      "correctAnswer": "many"
+    },
+    {
+      "question": "He has ___ books on the table.",
+      "options": ["a few", "a little", "much", "little"],
+      "correctAnswer": "a few"
+    },
+    {
+      "question": "We need ___ time to complete the project.",
+      "options": ["a little", "few", "many", "much"],
+      "correctAnswer": "a little"
+    },
+    {
+      "question": "There aren’t ___ students in the class today.",
+      "options": ["many", "much", "a few", "a little"],
+      "correctAnswer": "many"
+    },
+    {
+      "question": "She drank ___ water after the run.",
+      "options": ["a little", "much", "many", "a few"],
+      "correctAnswer": "a little"
+    },
+    {
+      "question": "How ___ milk is there in the fridge?",
+      "options": ["much", "many", "a few", "little"],
+      "correctAnswer": "much"
+    },
+    {
+      "question": "They found ___ errors in the report.",
+      "options": ["few", "a little", "many", "a lot of"],
+      "correctAnswer": "few"
+    },
+    {
+      "question": "There are ___ flowers in the garden.",
+      "options": ["many", "much", "few", "a lot of"],
+      "correctAnswer": "a lot of"
+    },
+    {
+      "question": "We don’t have ___ bread left.",
+      "options": ["much", "many", "a little", "a lot of"],
+      "correctAnswer": "much"
+    },
+    {
+      "question": "How ___ pencils are in the box?",
+      "options": ["many", "much", "a little", "few"],
+      "correctAnswer": "many"
+    },
+    {
+      "question": "She has ___ money to buy the groceries.",
+      "options": ["a lot of", "much", "few", "a little"],
+      "correctAnswer": "a lot of"
+    },
+    {
+      "question": "We need ___ apples for the pie.",
+      "options": ["many", "much", "a few", "little"],
+      "correctAnswer": "a few"
+    },
+    {
+      "question": "There isn’t ___ juice in the glass.",
+      "options": ["much", "many", "a little", "few"],
+      "correctAnswer": "much"
+    },
+    {
+      "question": "How ___ people are coming to the meeting?",
+      "options": ["many", "much", "a few", "little"],
+      "correctAnswer": "many"
+    },
+    {
+      "question": "We have ___ homework to do this evening.",
+      "options": ["much", "many", "a lot of", "few"],
+      "correctAnswer": "a lot of"
+    },
+    {
+      "question": "There are ___ sandwiches on the plate.",
+      "options": ["few", "a little", "many", "a lot of"],
+      "correctAnswer": "many"
+    },
+    {
+      "question": "She added ___ salt to the soup.",
+      "options": ["a little", "much", "few", "a lot of"],
+      "correctAnswer": "a little"
+    },
+    {
+      "question": "We don’t need ___ help with this task.",
+      "options": ["much", "many", "a lot of", "a little"],
+      "correctAnswer": "much"
+    },
+    {
+      "question": "There are only ___ cookies left in the jar.",
+      "options": ["a few", "many", "much", "little"],
+      "correctAnswer": "a few"
+    }
+  ]
+}

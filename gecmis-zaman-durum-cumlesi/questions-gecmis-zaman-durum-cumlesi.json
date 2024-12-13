@@ -1,0 +1,174 @@
+{
+  "questions": [
+    {
+      "question": "Where were you last night?",
+      "options": [
+        "At home",
+        "In the park",
+        "In the office",
+        "All of the above"
+      ],
+      "correctAnswer": "At home"
+    },
+    {
+      "question": "Was she at school yesterday?",
+      "options": ["Yes, she was", "No, she wasn’t", "I don’t know", "Maybe"],
+      "correctAnswer": "Yes, she was"
+    },
+    {
+      "question": "Were they happy with the results?",
+      "options": [
+        "Yes, they were",
+        "No, they weren’t",
+        "A little bit",
+        "Not sure"
+      ],
+      "correctAnswer": "Yes, they were"
+    },
+    {
+      "question": "He was not ___ at the party last night.",
+      "options": ["present", "absent", "there", "coming"],
+      "correctAnswer": "present"
+    },
+    {
+      "question": "Was the weather good yesterday?",
+      "options": ["Yes, it was", "No, it wasn’t", "It was okay", "Not sure"],
+      "correctAnswer": "Yes, it was"
+    },
+    {
+      "question": "Where ___ you yesterday afternoon?",
+      "options": ["was", "were", "did", "is"],
+      "correctAnswer": "were"
+    },
+    {
+      "question": "I ___ not at home when you called.",
+      "options": ["was", "were", "am", "is"],
+      "correctAnswer": "was"
+    },
+    {
+      "question": "She ___ very tired after the trip.",
+      "options": ["was", "were", "is", "be"],
+      "correctAnswer": "was"
+    },
+    {
+      "question": "Were you late for the meeting?",
+      "options": ["Yes, I was", "No, I wasn’t", "Maybe", "I forgot"],
+      "correctAnswer": "Yes, I was"
+    },
+    {
+      "question": "They ___ not in the same team last year.",
+      "options": ["was", "were", "is", "are"],
+      "correctAnswer": "were"
+    },
+    {
+      "question": "Was the movie interesting?",
+      "options": [
+        "Yes, it was",
+        "No, it wasn’t",
+        "Not really",
+        "I didn’t watch"
+      ],
+      "correctAnswer": "Yes, it was"
+    },
+    {
+      "question": "Where ___ she last weekend?",
+      "options": ["was", "were", "is", "be"],
+      "correctAnswer": "was"
+    },
+    {
+      "question": "I was not ___ to the event on time.",
+      "options": ["able to come", "arrived", "present", "going"],
+      "correctAnswer": "able to come"
+    },
+    {
+      "question": "He ___ at the office the whole day yesterday.",
+      "options": ["was", "were", "is", "been"],
+      "correctAnswer": "was"
+    },
+    {
+      "question": "Were we supposed to bring our ID cards?",
+      "options": ["Yes, we were", "No, we weren’t", "Maybe", "I don’t know"],
+      "correctAnswer": "Yes, we were"
+    },
+    {
+      "question": "She ___ not at her desk when I looked.",
+      "options": ["was", "were", "is", "be"],
+      "correctAnswer": "was"
+    },
+    {
+      "question": "Was the shop open in the morning?",
+      "options": ["Yes, it was", "No, it wasn’t", "I’m not sure", "It depends"],
+      "correctAnswer": "Yes, it was"
+    },
+    {
+      "question": "They ___ not ready for the test yesterday.",
+      "options": ["was", "were", "is", "are"],
+      "correctAnswer": "were"
+    },
+    {
+      "question": "Who was your favorite teacher in school?",
+      "options": ["Mr. John", "Mrs. Smith", "Miss Jane", "I don’t know"],
+      "correctAnswer": "Mrs. Smith"
+    },
+    {
+      "question": "Where ___ the keys yesterday?",
+      "options": ["was", "were", "is", "are"],
+      "correctAnswer": "were"
+    },
+    {
+      "question": "Was it difficult to find the address?",
+      "options": ["Yes, it was", "No, it wasn’t", "A little", "Not at all"],
+      "correctAnswer": "Yes, it was"
+    },
+    {
+      "question": "She was not ___ to finish the project on time.",
+      "options": ["able", "ready", "willing", "going"],
+      "correctAnswer": "able"
+    },
+    {
+      "question": "Were the students happy with their grades?",
+      "options": [
+        "Yes, they were",
+        "No, they weren’t",
+        "Some of them",
+        "Not sure"
+      ],
+      "correctAnswer": "Yes, they were"
+    },
+    {
+      "question": "He ___ not at the library yesterday evening.",
+      "options": ["was", "were", "is", "be"],
+      "correctAnswer": "was"
+    },
+    {
+      "question": "Where ___ the meeting held last month?",
+      "options": ["was", "were", "is", "be"],
+      "correctAnswer": "was"
+    },
+    {
+      "question": "They ___ happy with the outcome of the event.",
+      "options": ["were", "was", "are", "is"],
+      "correctAnswer": "were"
+    },
+    {
+      "question": "Was the task completed on time?",
+      "options": ["Yes, it was", "No, it wasn’t", "Partially", "I don’t know"],
+      "correctAnswer": "Yes, it was"
+    },
+    {
+      "question": "Where ___ you yesterday during lunch?",
+      "options": ["were", "was", "are", "be"],
+      "correctAnswer": "were"
+    },
+    {
+      "question": "He ___ very happy with the gift he received.",
+      "options": ["was", "were", "is", "been"],
+      "correctAnswer": "was"
+    },
+    {
+      "question": "Was it easy to find the solution?",
+      "options": ["Yes, it was", "No, it wasn’t", "Not really", "Very hard"],
+      "correctAnswer": "Yes, it was"
+    }
+  ]
+}

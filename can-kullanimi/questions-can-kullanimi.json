@@ -1,0 +1,154 @@
+{
+  "questions": [
+    {
+      "question": "Can you play the guitar?",
+      "options": ["Yes, I can", "No, I can’t", "Maybe", "I don’t know"],
+      "correctAnswer": "Yes, I can"
+    },
+    {
+      "question": "She can ___ very fast.",
+      "options": ["run", "runs", "running", "ran"],
+      "correctAnswer": "run"
+    },
+    {
+      "question": "Could he solve the problem yesterday?",
+      "options": ["Yes, he could", "No, he couldn’t", "Not sure", "Maybe"],
+      "correctAnswer": "Yes, he could"
+    },
+    {
+      "question": "We cannot ___ the concert tomorrow.",
+      "options": ["attend", "attends", "attending", "attended"],
+      "correctAnswer": "attend"
+    },
+    {
+      "question": "Can they join us for dinner?",
+      "options": ["Yes, they can", "No, they can’t", "Not sure", "Maybe"],
+      "correctAnswer": "Yes, they can"
+    },
+    {
+      "question": "I couldn’t ___ the answer during the test.",
+      "options": ["find", "finds", "finding", "found"],
+      "correctAnswer": "find"
+    },
+    {
+      "question": "Could you help me with this task?",
+      "options": ["Yes, I could", "No, I couldn’t", "Not sure", "Maybe"],
+      "correctAnswer": "Yes, I could"
+    },
+    {
+      "question": "He cannot ___ the piano well.",
+      "options": ["play", "plays", "playing", "played"],
+      "correctAnswer": "play"
+    },
+    {
+      "question": "Can you speak Spanish?",
+      "options": ["Yes, I can", "No, I can’t", "Maybe", "Not sure"],
+      "correctAnswer": "Yes, I can"
+    },
+    {
+      "question": "She could ___ when she was five years old.",
+      "options": ["swim", "swims", "swimming", "swam"],
+      "correctAnswer": "swim"
+    },
+    {
+      "question": "Can we leave early today?",
+      "options": ["Yes, we can", "No, we can’t", "Not sure", "Maybe"],
+      "correctAnswer": "Yes, we can"
+    },
+    {
+      "question": "They couldn’t ___ the event last week.",
+      "options": ["attend", "attends", "attending", "attended"],
+      "correctAnswer": "attend"
+    },
+    {
+      "question": "Can she dance well?",
+      "options": ["Yes, she can", "No, she can’t", "Not sure", "Maybe"],
+      "correctAnswer": "Yes, she can"
+    },
+    {
+      "question": "He cannot ___ the heavy box alone.",
+      "options": ["lift", "lifts", "lifting", "lifted"],
+      "correctAnswer": "lift"
+    },
+    {
+      "question": "Could you open the window, please?",
+      "options": ["Yes, I could", "No, I couldn’t", "Not sure", "Maybe"],
+      "correctAnswer": "Yes, I could"
+    },
+    {
+      "question": "She couldn’t ___ her phone in the bag.",
+      "options": ["find", "finds", "finding", "found"],
+      "correctAnswer": "find"
+    },
+    {
+      "question": "Can we stay here tonight?",
+      "options": ["Yes, we can", "No, we can’t", "Not sure", "Maybe"],
+      "correctAnswer": "Yes, we can"
+    },
+    {
+      "question": "He could ___ the problem easily.",
+      "options": ["solve", "solves", "solving", "solved"],
+      "correctAnswer": "solve"
+    },
+    {
+      "question": "Can they finish the project on time?",
+      "options": ["Yes, they can", "No, they can’t", "Not sure", "Maybe"],
+      "correctAnswer": "Yes, they can"
+    },
+    {
+      "question": "I cannot ___ you tomorrow.",
+      "options": ["meet", "meets", "meeting", "met"],
+      "correctAnswer": "meet"
+    },
+    {
+      "question": "Could he answer the question correctly?",
+      "options": ["Yes, he could", "No, he couldn’t", "Not sure", "Maybe"],
+      "correctAnswer": "Yes, he could"
+    },
+    {
+      "question": "She cannot ___ the piano very well.",
+      "options": ["play", "plays", "playing", "played"],
+      "correctAnswer": "play"
+    },
+    {
+      "question": "Can we go to the park this evening?",
+      "options": ["Yes, we can", "No, we can’t", "Not sure", "Maybe"],
+      "correctAnswer": "Yes, we can"
+    },
+    {
+      "question": "They could ___ the answer in the textbook.",
+      "options": ["find", "finds", "finding", "found"],
+      "correctAnswer": "find"
+    },
+    {
+      "question": "Can you help me with my homework?",
+      "options": ["Yes, I can", "No, I can’t", "Not sure", "Maybe"],
+      "correctAnswer": "Yes, I can"
+    },
+    {
+      "question": "He couldn’t ___ the meeting last week.",
+      "options": ["attend", "attends", "attending", "attended"],
+      "correctAnswer": "attend"
+    },
+    {
+      "question": "Can she solve this problem?",
+      "options": ["Yes, she can", "No, she can’t", "Not sure", "Maybe"],
+      "correctAnswer": "Yes, she can"
+    },
+    {
+      "question": "We cannot ___ the movie because it’s too late.",
+      "options": ["watch", "watches", "watching", "watched"],
+      "correctAnswer": "watch"
+    },
+    {
+      "question": "Could they find the right address?",
+      "options": ["Yes, they could", "No, they couldn’t", "Not sure", "Maybe"],
+      "correctAnswer": "Yes, they could"
+    },
+    {
+      "question": "I can ___ the answer to your question.",
+      "options": ["find", "finds", "finding", "found"],
+      "correctAnswer": "find"
+    }
+  ]
+}

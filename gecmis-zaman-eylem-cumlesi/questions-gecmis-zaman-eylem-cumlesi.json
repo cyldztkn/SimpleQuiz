@@ -1,0 +1,169 @@
+{
+  "questions": [
+    {
+      "question": "Did you finish your homework yesterday?",
+      "options": ["Yes, I did", "No, I didn’t", "I forgot", "Not sure"],
+      "correctAnswer": "Yes, I did"
+    },
+    {
+      "question": "What did she cook for dinner?",
+      "options": ["Pasta", "Soup", "Pizza", "All of the above"],
+      "correctAnswer": "Pasta"
+    },
+    {
+      "question": "Did they enjoy the concert?",
+      "options": ["Yes, they did", "No, they didn’t", "Maybe", "I don’t know"],
+      "correctAnswer": "Yes, they did"
+    },
+    {
+      "question": "I did not ___ the email you sent.",
+      "options": ["receive", "read", "write", "send"],
+      "correctAnswer": "receive"
+    },
+    {
+      "question": "Did he call you yesterday?",
+      "options": ["Yes, he did", "No, he didn’t", "Not sure", "Maybe"],
+      "correctAnswer": "Yes, he did"
+    },
+    {
+      "question": "She ___ not attend the meeting last week.",
+      "options": ["did", "didn’t", "don’t", "wasn’t"],
+      "correctAnswer": "didn’t"
+    },
+    {
+      "question": "Did we miss the train?",
+      "options": ["Yes, we did", "No, we didn’t", "Maybe", "I don’t know"],
+      "correctAnswer": "Yes, we did"
+    },
+    {
+      "question": "What did you do over the weekend?",
+      "options": [
+        "I stayed home",
+        "I went hiking",
+        "I visited friends",
+        "All of the above"
+      ],
+      "correctAnswer": "All of the above"
+    },
+    {
+      "question": "He did not ___ the task on time.",
+      "options": ["complete", "start", "submit", "do"],
+      "correctAnswer": "complete"
+    },
+    {
+      "question": "Did you understand the instructions?",
+      "options": ["Yes, I did", "No, I didn’t", "Not really", "Partially"],
+      "correctAnswer": "Yes, I did"
+    },
+    {
+      "question": "Where did they go for vacation?",
+      "options": ["The beach", "The mountains", "The city", "I don’t know"],
+      "correctAnswer": "The beach"
+    },
+    {
+      "question": "She did not ___ the invitation.",
+      "options": ["accept", "receive", "send", "see"],
+      "correctAnswer": "accept"
+    },
+    {
+      "question": "Did you see the movie?",
+      "options": ["Yes, I did", "No, I didn’t", "Not sure", "Maybe"],
+      "correctAnswer": "Yes, I did"
+    },
+    {
+      "question": "What time did the meeting start?",
+      "options": ["At 9 AM", "At 10 AM", "At 11 AM", "Not sure"],
+      "correctAnswer": "At 9 AM"
+    },
+    {
+      "question": "They did not ___ the deadline.",
+      "options": ["meet", "extend", "set", "miss"],
+      "correctAnswer": "meet"
+    },
+    {
+      "question": "Did he attend the event?",
+      "options": ["Yes, he did", "No, he didn’t", "Not sure", "Maybe"],
+      "correctAnswer": "Yes, he did"
+    },
+    {
+      "question": "Where did you buy the book?",
+      "options": [
+        "Online",
+        "At the bookstore",
+        "At the library",
+        "I don’t remember"
+      ],
+      "correctAnswer": "At the bookstore"
+    },
+    {
+      "question": "I did not ___ the message clearly.",
+      "options": ["hear", "read", "write", "send"],
+      "correctAnswer": "hear"
+    },
+    {
+      "question": "Did they arrive on time?",
+      "options": ["Yes, they did", "No, they didn’t", "Not really", "Maybe"],
+      "correctAnswer": "Yes, they did"
+    },
+    {
+      "question": "What did she say during the meeting?",
+      "options": [
+        "I agree",
+        "I disagree",
+        "I have a question",
+        "All of the above"
+      ],
+      "correctAnswer": "All of the above"
+    },
+    {
+      "question": "Did he help you with the project?",
+      "options": ["Yes, he did", "No, he didn’t", "Not sure", "Maybe"],
+      "correctAnswer": "Yes, he did"
+    },
+    {
+      "question": "I did not ___ the train station.",
+      "options": ["find", "miss", "enter", "leave"],
+      "correctAnswer": "find"
+    },
+    {
+      "question": "Where did they park the car?",
+      "options": ["In the garage", "On the street", "At the mall", "Not sure"],
+      "correctAnswer": "In the garage"
+    },
+    {
+      "question": "She did not ___ the appointment on time.",
+      "options": ["attend", "schedule", "cancel", "confirm"],
+      "correctAnswer": "attend"
+    },
+    {
+      "question": "Did you call your friend?",
+      "options": ["Yes, I did", "No, I didn’t", "Not yet", "Maybe"],
+      "correctAnswer": "Yes, I did"
+    },
+    {
+      "question": "What did you learn from the class?",
+      "options": ["Grammar", "Vocabulary", "Pronunciation", "All of the above"],
+      "correctAnswer": "All of the above"
+    },
+    {
+      "question": "He did not ___ the task correctly.",
+      "options": ["complete", "perform", "start", "review"],
+      "correctAnswer": "perform"
+    },
+    {
+      "question": "Did she explain the rules clearly?",
+      "options": ["Yes, she did", "No, she didn’t", "Not really", "Maybe"],
+      "correctAnswer": "Yes, she did"
+    },
+    {
+      "question": "Where did you put the keys?",
+      "options": ["On the table", "In the drawer", "In my bag", "I forgot"],
+      "correctAnswer": "In the drawer"
+    },
+    {
+      "question": "Did they enjoy the dinner?",
+      "options": ["Yes, they did", "No, they didn’t", "A little", "Not really"],
+      "correctAnswer": "Yes, they did"
+    }
+  ]
+}

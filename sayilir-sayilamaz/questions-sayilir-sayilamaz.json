@@ -1,0 +1,289 @@
+{
+  "questions": [
+    {
+      "question": "There are ___ apples in the basket.",
+      "options": ["much", "many", "a little", "few"],
+      "correctAnswer": "many"
+    },
+    {
+      "question": "She has ___ money in her wallet.",
+      "options": ["a few", "much", "a lot of", "little"],
+      "correctAnswer": "a lot of"
+    },
+    {
+      "question": "He drank ___ water after the run.",
+      "options": ["few", "a little", "a lot of", "many"],
+      "correctAnswer": "a little"
+    },
+    {
+      "question": "There aren’t ___ chairs in the room.",
+      "options": ["much", "a lot of", "many", "little"],
+      "correctAnswer": "many"
+    },
+    {
+      "question": "We have ___ time to finish this project.",
+      "options": ["a little", "much", "few", "many"],
+      "correctAnswer": "a little"
+    },
+    {
+      "question": "How ___ sugar do you need?",
+      "options": ["many", "a lot of", "much", "few"],
+      "correctAnswer": "much"
+    },
+    {
+      "question": "There are only ___ books on the shelf.",
+      "options": ["few", "a lot of", "much", "little"],
+      "correctAnswer": "few"
+    },
+    {
+      "question": "We don’t have ___ milk left.",
+      "options": ["a lot of", "few", "much", "many"],
+      "correctAnswer": "much"
+    },
+    {
+      "question": "She gave me ___ advice about my trip.",
+      "options": ["a lot of", "few", "many", "a little"],
+      "correctAnswer": "a lot of"
+    },
+    {
+      "question": "There are ___ people at the party.",
+      "options": ["a little", "few", "many", "much"],
+      "correctAnswer": "many"
+    },
+    {
+      "question": "We need ___ eggs for this recipe.",
+      "options": ["a few", "much", "a little", "few"],
+      "correctAnswer": "a few"
+    },
+    {
+      "question": "He has ___ friends in the city.",
+      "options": ["a little", "much", "a lot of", "few"],
+      "correctAnswer": "a lot of"
+    },
+    {
+      "question": "There isn’t ___ sugar in the jar.",
+      "options": ["few", "a lot of", "much", "many"],
+      "correctAnswer": "much"
+    },
+    {
+      "question": "How ___ pencils do you need?",
+      "options": ["much", "few", "a little", "many"],
+      "correctAnswer": "many"
+    },
+    {
+      "question": "He drank ___ coffee this morning.",
+      "options": ["a lot of", "few", "many", "little"],
+      "correctAnswer": "a lot of"
+    },
+    {
+      "question": "There are ___ flowers in the garden.",
+      "options": ["few", "a lot of", "much", "a little"],
+      "correctAnswer": "a lot of"
+    },
+    {
+      "question": "We have only ___ minutes left.",
+      "options": ["few", "a little", "much", "many"],
+      "correctAnswer": "few"
+    },
+    {
+      "question": "How ___ water do you drink daily?",
+      "options": ["much", "many", "a few", "little"],
+      "correctAnswer": "much"
+    },
+    {
+      "question": "She has ___ money to buy the book.",
+      "options": ["a few", "little", "a lot of", "many"],
+      "correctAnswer": "a lot of"
+    },
+    {
+      "question": "There are ___ problems to solve.",
+      "options": ["a little", "few", "much", "many"],
+      "correctAnswer": "few"
+    },
+    {
+      "question": "He bought ___ apples from the market.",
+      "options": ["much", "a few", "many", "a lot of"],
+      "correctAnswer": "a few"
+    },
+    {
+      "question": "We need ___ flour for the cake.",
+      "options": ["many", "much", "a few", "few"],
+      "correctAnswer": "much"
+    },
+    {
+      "question": "There is only ___ juice left in the fridge.",
+      "options": ["a little", "a few", "many", "little"],
+      "correctAnswer": "a little"
+    },
+    {
+      "question": "How ___ cars are parked outside?",
+      "options": ["much", "many", "a little", "few"],
+      "correctAnswer": "many"
+    },
+    {
+      "question": "She found ___ mistakes in the report.",
+      "options": ["a lot of", "few", "much", "a little"],
+      "correctAnswer": "few"
+    },
+    {
+      "question": "We don’t have ___ bread for dinner.",
+      "options": ["much", "a few", "many", "little"],
+      "correctAnswer": "much"
+    },
+    {
+      "question": "There are ___ birds in the tree.",
+      "options": ["many", "much", "few", "a little"],
+      "correctAnswer": "many"
+    },
+    {
+      "question": "He drank ___ tea after lunch.",
+      "options": ["a lot of", "few", "many", "little"],
+      "correctAnswer": "a lot of"
+    },
+    {
+      "question": "How ___ chairs are there in the room?",
+      "options": ["much", "a little", "many", "few"],
+      "correctAnswer": "many"
+    },
+    {
+      "question": "She has only ___ time to finish her homework.",
+      "options": ["little", "few", "a lot of", "many"],
+      "correctAnswer": "little"
+    },
+    {
+      "question": "They bought ___ oranges at the market.",
+      "options": ["much", "many", "few", "a lot of"],
+      "correctAnswer": "many"
+    },
+    {
+      "question": "We need ___ effort to complete this task.",
+      "options": ["little", "a little", "few", "much"],
+      "correctAnswer": "a little"
+    },
+    {
+      "question": "How ___ books do you read in a month?",
+      "options": ["many", "a few", "much", "little"],
+      "correctAnswer": "many"
+    },
+    {
+      "question": "There isn’t ___ water left in the bottle.",
+      "options": ["much", "few", "many", "a lot of"],
+      "correctAnswer": "much"
+    },
+    {
+      "question": "He found ___ errors in the document.",
+      "options": ["a lot of", "few", "little", "much"],
+      "correctAnswer": "few"
+    },
+    {
+      "question": "How ___ friends does she have?",
+      "options": ["much", "many", "a little", "few"],
+      "correctAnswer": "many"
+    },
+    {
+      "question": "We have ___ milk in the fridge.",
+      "options": ["a little", "a few", "few", "many"],
+      "correctAnswer": "a little"
+    },
+    {
+      "question": "How ___ sugar do you need for the recipe?",
+      "options": ["many", "much", "a few", "little"],
+      "correctAnswer": "much"
+    },
+    {
+      "question": "There are ___ chairs in the living room.",
+      "options": ["many", "much", "few", "a lot of"],
+      "correctAnswer": "many"
+    },
+    {
+      "question": "He has ___ books on the table.",
+      "options": ["a few", "a little", "much", "little"],
+      "correctAnswer": "a few"
+    },
+    {
+      "question": "We need ___ time to complete the project.",
+      "options": ["a little", "few", "many", "much"],
+      "correctAnswer": "a little"
+    },
+    {
+      "question": "There aren’t ___ students in the class today.",
+      "options": ["many", "much", "a few", "a little"],
+      "correctAnswer": "many"
+    },
+    {
+      "question": "She drank ___ water after the run.",
+      "options": ["a little", "much", "many", "a few"],
+      "correctAnswer": "a little"
+    },
+    {
+      "question": "How ___ milk is there in the fridge?",
+      "options": ["much", "many", "a few", "little"],
+      "correctAnswer": "much"
+    },
+    {
+      "question": "They found ___ errors in the report.",
+      "options": ["few", "a little", "many", "a lot of"],
+      "correctAnswer": "few"
+    },
+    {
+      "question": "There are ___ flowers in the garden.",
+      "options": ["many", "much", "few", "a lot of"],
+      "correctAnswer": "a lot of"
+    },
+    {
+      "question": "We don’t have ___ bread left.",
+      "options": ["much", "many", "a little", "a lot of"],
+      "correctAnswer": "much"
+    },
+    {
+      "question": "How ___ pencils are in the box?",
+      "options": ["many", "much", "a little", "few"],
+      "correctAnswer": "many"
+    },
+    {
+      "question": "She has ___ money to buy the groceries.",
+      "options": ["a lot of", "much", "few", "a little"],
+      "correctAnswer": "a lot of"
+    },
+    {
+      "question": "We need ___ apples for the pie.",
+      "options": ["many", "much", "a few", "little"],
+      "correctAnswer": "a few"
+    },
+    {
+      "question": "There isn’t ___ juice in the glass.",
+      "options": ["much", "many", "a little", "few"],
+      "correctAnswer": "much"
+    },
+    {
+      "question": "How ___ people are coming to the meeting?",
+      "options": ["many", "much", "a few", "little"],
+      "correctAnswer": "many"
+    },
+    {
+      "question": "We have ___ homework to do this evening.",
+      "options": ["much", "many", "a lot of", "few"],
+      "correctAnswer": "a lot of"
+    },
+    {
+      "question": "There are ___ sandwiches on the plate.",
+      "options": ["few", "a little", "many", "a lot of"],
+      "correctAnswer": "many"
+    },
+    {
+      "question": "She added ___ salt to the soup.",
+      "options": ["a little", "much", "few", "a lot of"],
+      "correctAnswer": "a little"
+    },
+    {
+      "question": "We don’t need ___ help with this task.",
+      "options": ["much", "many", "a lot of", "a little"],
+      "correctAnswer": "much"
+    },
+    {
+      "question": "There are only ___ cookies left in the jar.",
+      "options": ["a few", "many", "much", "little"],
+      "correctAnswer": "a few"
+    }
+  ]
+}

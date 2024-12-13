@@ -1,0 +1,159 @@
+{
+  "questions": [
+    {
+      "question": "Do you ___ to the gym every morning?",
+      "options": ["go", "goes", "going", "gone"],
+      "correctAnswer": "go"
+    },
+    {
+      "question": "He ___ not like spicy food.",
+      "options": ["do", "does", "did", "doesn't"],
+      "correctAnswer": "doesn't"
+    },
+    {
+      "question": "Does she ___ her homework before dinner?",
+      "options": ["finish", "finishes", "finishing", "finished"],
+      "correctAnswer": "finish"
+    },
+    {
+      "question": "We ___ often visit our grandparents on weekends.",
+      "options": ["do", "does", "doing", "done"],
+      "correctAnswer": "do"
+    },
+    {
+      "question": "Do they ___ usually eat lunch at home?",
+      "options": ["have", "has", "having", "had"],
+      "correctAnswer": "have"
+    },
+    {
+      "question": "She ___ not always go to bed early.",
+      "options": ["do", "does", "did", "doesn't"],
+      "correctAnswer": "doesn't"
+    },
+    {
+      "question": "Does he ___ the car every Saturday?",
+      "options": ["wash", "washes", "washing", "washed"],
+      "correctAnswer": "wash"
+    },
+    {
+      "question": "I ___ usually drink coffee in the morning.",
+      "options": ["do", "does", "did", "don't"],
+      "correctAnswer": "do"
+    },
+    {
+      "question": "Do you ___ sometimes listen to music while studying?",
+      "options": ["listen", "listens", "listening", "listened"],
+      "correctAnswer": "listen"
+    },
+    {
+      "question": "They ___ not often play video games.",
+      "options": ["do", "does", "did", "don't"],
+      "correctAnswer": "don't"
+    },
+    {
+      "question": "Does she ___ to the market every Friday?",
+      "options": ["go", "goes", "going", "gone"],
+      "correctAnswer": "go"
+    },
+    {
+      "question": "He ___ usually arrive on time.",
+      "options": ["do", "does", "did", "doesn't"],
+      "correctAnswer": "does"
+    },
+    {
+      "question": "Do we ___ often read books before bed?",
+      "options": ["read", "reads", "reading", "readed"],
+      "correctAnswer": "read"
+    },
+    {
+      "question": "She ___ not always watch TV in the evening.",
+      "options": ["do", "does", "did", "doesn't"],
+      "correctAnswer": "doesn't"
+    },
+    {
+      "question": "Does he ___ coffee in the morning?",
+      "options": ["drink", "drinks", "drinking", "drunk"],
+      "correctAnswer": "drink"
+    },
+    {
+      "question": "You ___ usually travel during the holidays.",
+      "options": ["do", "does", "did", "don't"],
+      "correctAnswer": "do"
+    },
+    {
+      "question": "Do they ___ often go to the cinema?",
+      "options": ["go", "goes", "going", "gone"],
+      "correctAnswer": "go"
+    },
+    {
+      "question": "I ___ not always eat breakfast in the morning.",
+      "options": ["do", "does", "did", "don't"],
+      "correctAnswer": "don't"
+    },
+    {
+      "question": "Does she ___ often help her friends?",
+      "options": ["help", "helps", "helping", "helped"],
+      "correctAnswer": "help"
+    },
+    {
+      "question": "They ___ usually walk to school.",
+      "options": ["do", "does", "did", "don't"],
+      "correctAnswer": "do"
+    },
+    {
+      "question": "Do you ___ sometimes take the bus to work?",
+      "options": ["take", "takes", "taking", "taken"],
+      "correctAnswer": "take"
+    },
+    {
+      "question": "He ___ often go swimming on weekends.",
+      "options": ["do", "does", "did", "doesn't"],
+      "correctAnswer": "does"
+    },
+    {
+      "question": "Does she ___ always bring her lunch to school?",
+      "options": ["bring", "brings", "bringing", "brought"],
+      "correctAnswer": "bring"
+    },
+    {
+      "question": "They ___ not usually work late.",
+      "options": ["do", "does", "did", "don't"],
+      "correctAnswer": "don't"
+    },
+    {
+      "question": "Do we ___ often call our parents on Sundays?",
+      "options": ["call", "calls", "calling", "called"],
+      "correctAnswer": "call"
+    },
+    {
+      "question": "She ___ usually read novels in her free time.",
+      "options": ["do", "does", "did", "doesn't"],
+      "correctAnswer": "does"
+    },
+    {
+      "question": "Does he ___ always finish his assignments on time?",
+      "options": ["finish", "finishes", "finishing", "finished"],
+      "correctAnswer": "finish"
+    },
+    {
+      "question": "We ___ not usually stay up late.",
+      "options": ["do", "does", "did", "don't"],
+      "correctAnswer": "don't"
+    },
+    {
+      "question": "Do they ___ sometimes play chess together?",
+      "options": ["play", "plays", "playing", "played"],
+      "correctAnswer": "play"
+    },
+    {
+      "question": "He ___ not usually eat lunch at noon.",
+      "options": ["do", "does", "did", "doesn't"],
+      "correctAnswer": "doesn't"
+    },
+    {
+      "question": "Does she ___ always arrive early to class?",
+      "options": ["arrive", "arrives", "arriving", "arrived"],
+      "correctAnswer": "arrive"
+    }
+  ]
+}
